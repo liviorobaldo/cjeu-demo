@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bags>
+  <Bag type="Form" name="Months">
+    <instance>january</instance>
+    <instance>february</instance>
+    <instance>march</instance>
+    <instance>april</instance>
+    <instance>may</instance>
+    <instance>june</instance>
+    <instance>july</instance>
+    <instance>august</instance>
+    <instance>september</instance>
+    <instance>october</instance>
+    <instance>november</instance>
+    <instance>december</instance>
+  </Bag>
+</Bags>
+

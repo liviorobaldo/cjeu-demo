@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bags>
+  <Bag type="Form" name="Letters">
+    <instance>a</instance>
+    <instance>b</instance>
+    <instance>c</instance>
+    <instance>d</instance>
+    <instance>e</instance>
+    <instance>f</instance>
+    <instance>g</instance>
+    <instance>h</instance>
+    <instance>i</instance>
+    <instance>j</instance>
+    <instance>k</instance>
+    <instance>l</instance>
+    <instance>m</instance>
+    <instance>n</instance>
+    <instance>o</instance>
+    <instance>p</instance>
+    <instance>q</instance>
+    <instance>r</instance>
+    <instance>s</instance>
+    <instance>t</instance>
+    <instance>u</instance>
+    <instance>v</instance>
+    <instance>w</instance>
+    <instance>x</instance>
+    <instance>y</instance>
+    <instance>z</instance>
+  </Bag>
+</Bags>
+
