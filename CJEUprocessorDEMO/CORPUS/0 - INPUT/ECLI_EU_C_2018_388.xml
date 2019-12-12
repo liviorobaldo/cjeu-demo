@@ -1,0 +1,1597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+  <p class="sum-title-1">
+    <a id="judgment" />
+    JUDGMENT OF THE COURT (Grand Chamber)
+  </p>
+  <p class="sum-title-1">
+    5 June 2018 (
+    <span class="note">
+      <a id="c-ECR_62016CJ0210_EN_01-E0001" href="#t-ECR_62016CJ0210_EN_01-E0001">*1</a>
+    </span>
+    )
+  </p>
+  <p class="index">(Reference for a preliminary ruling — Directive 95/46/EC — Personal data — Protection of natural persons with respect to the processing of that data — Order to deactivate a Facebook page (fan page) enabling the collection and processing of certain data of visitors to that page — Article 2(d) — Controller responsible for the processing of personal data — Article 4 — Applicable national law — Article 28 — National supervisory authorities — Powers of intervention of those authorities)</p>
+  <p class="normal">In Case C‑210/16,</p>
+  <p class="normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Bundesverwaltungsgericht (Federal Administrative Court, Germany), made by decision of 25 February 2016, received at the Court on 14 April 2016, in the proceedings</p>
+  <p class="normal">
+    <span class="bold">Unabhängiges Landeszentrum für Datenschutz Schleswig-Holstein</span>
+  </p>
+  <p class="pnormal">v</p>
+  <p class="normal">
+    <span class="bold">Wirtschaftsakademie Schleswig-Holstein GmbH,</span>
+  </p>
+  <p class="normal">interveners:</p>
+  <p class="normal">
+    <span class="bold">Facebook Ireland Ltd,</span>
+  </p>
+  <p class="normal">
+    <span class="bold">Vertreter des Bundesinteresses beim Bundesverwaltungsgericht,</span>
+  </p>
+  <p class="normal">THE COURT (Grand Chamber),</p>
+  <p class="normal">composed of K. Lenaerts, President, A. Tizzano (Rapporteur), Vice-President, M. Ilešič, L. Bay Larsen, T. von Danwitz, A. Rosas, J. Malenovský and E. Levits, Presidents of Chambers, E. Juhász, A. Borg Barthet, F. Biltgen, K. Jürimäe, C. Lycourgos, M. Vilaras and E. Regan, Judges,</p>
+  <p class="normal">Advocate General: Y. Bot,</p>
+  <p class="normal">Registrar: C. Strömholm, Administrator,</p>
+  <p class="normal">having regard to the written procedure and further to the hearing on 27 June 2017,</p>
+  <p class="normal">after considering the observations submitted on behalf of:</p>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count">–</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Unabhängiges Landeszentrum für Datenschutz Schleswig-Holstein, by U. Karpenstein and M. Kottmann, Rechtsanwälte,</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count">–</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Wirtschaftsakademie Schleswig-Holstein GmbH, by C. Wolff, Rechtsanwalt,</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count">–</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Facebook Ireland Ltd, by C. Eggers, H.‑G. Kamann and M. Braun, Rechtsanwälte, and I. Perego, avvocato,</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count">–</p>
+      </td>
+      <td valign="top">
+        <p class="normal">the German Government, by J. Möller, acting as Agent,</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count">–</p>
+      </td>
+      <td valign="top">
+        <p class="normal">the Belgian Government, by L. Van den Broeck, C. Pochet, P. Cottin and J.‑C. Halleux, acting as Agents,</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count">–</p>
+      </td>
+      <td valign="top">
+        <p class="normal">the Czech Government, by M. Smolek, J. Vláčil and L. Březinová, acting as Agents,</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count">–</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Ireland, by M. Browne, L. Williams, E. Creedon, G. Gilmore and A. Joyce, acting as Agents,</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count">–</p>
+      </td>
+      <td valign="top">
+        <p class="normal">the Italian Government, by G. Palmieri, acting as Agent, and P. Gentili, avvocato dello Stato,</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count">–</p>
+      </td>
+      <td valign="top">
+        <p class="normal">the Netherlands Government, by C.S. Schillemans and K. Bulterman, acting as Agents,</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count">–</p>
+      </td>
+      <td valign="top">
+        <p class="normal">the Finnish Government, by J. Heliskoski, acting as Agent,</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count">–</p>
+      </td>
+      <td valign="top">
+        <p class="normal">the European Commission, by H. Krämer and D. Nardi, acting as Agents,</p>
+      </td>
+    </tr>
+  </table>
+  <p class="normal">after hearing the Opinion of the Advocate General at the sitting on 24 October 2017,</p>
+  <p class="normal">gives the following</p>
+  <p class="sum-title-1">
+    <span class="bold">Judgment</span>
+  </p>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point1">1</p>
+      </td>
+      <td valign="top">
+        <p class="normal">
+          This request for a preliminary ruling concerns the interpretation of Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data (
+          <a href="./../../../../legal-content/EN/AUTO/?uri=OJ:L:1995:281:TOC" hreflang="en" target="CourtTab">OJ 1995 L 281, p. 31</a>
+          ).
+        </p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point2">2</p>
+      </td>
+      <td valign="top">
+        <p class="normal">
+          The request has been made in proceedings between the Unabhängiges Landeszentrum für Datenschutz Schleswig-Holstein (Independent Data Protection Centre for the
+          <span class="italic">Land</span>
+          of Schleswig-Holstein, Germany) (‘the ULD’) and Wirtschaftsakademie Schleswig-Holstein GmbH, a private-law company operating in the field of education (‘Wirtschaftsakademie’), concerning the lawfulness of ULD’s order to Wirtschaftsakademie to deactivate its fan page on the Facebook social network site (‘Facebook’).
+        </p>
+      </td>
+    </tr>
+  </table>
+  <p class="sum-title-1">
+    <span class="bold">Legal context</span>
+  </p>
+  <p class="title-grseq-2">
+    <span class="bold">
+      <span class="italic">EU law</span>
+    </span>
+  </p>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point3">3</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Recitals 10, 18, 19 and 26 of Directive 95/46 state:</p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">‘(10)</p>
+            </td>
+            <td valign="top">
+              <p class="normal">Whereas the object of the national laws on the processing of personal data is to protect fundamental rights and freedoms, notably the right to privacy, which is recognised both in Article 8 of the European Convention for the Protection of Human Rights and Fundamental Freedoms and in the general principles of [EU] law; whereas, for that reason, the approximation of those laws must not result in any lessening of the protection they afford but must, on the contrary, seek to ensure a high level of protection in the [European Union];</p>
+            </td>
+          </tr>
+        </table>
+        <p class="normal">...</p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">(18)</p>
+            </td>
+            <td valign="top">
+              <p class="normal">Whereas, in order to ensure that individuals are not deprived of the protection to which they are entitled under this Directive, any processing of personal data in the [European Union] must be carried out in accordance with the law of one of the Member States; whereas, in this connection, processing carried out under the responsibility of a controller who is established in a Member State should be governed by the law of that State;</p>
+            </td>
+          </tr>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">(19)</p>
+            </td>
+            <td valign="top">
+              <p class="normal">Whereas establishment on the territory of a Member State implies the effective and real exercise of activity through stable arrangements; whereas the legal form of such an establishment, whether simply branch or a subsidiary with a legal personality, is not the determining factor in this respect; whereas, when a single controller is established on the territory of several Member States, particularly by means of subsidiaries, he must ensure, in order to avoid any circumvention of national rules, that each of the establishments fulfils the obligations imposed by the national law applicable to its activities;</p>
+            </td>
+          </tr>
+        </table>
+        <p class="normal">…</p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">(26)</p>
+            </td>
+            <td valign="top">
+              <p class="normal">Whereas the principles of protection must apply to any information concerning an identified or identifiable person; whereas, to determine whether a person is identifiable, account should be taken of all the means likely reasonably to be used either by the controller or by any other person to identify the said person; whereas the principles of protection shall not apply to data rendered anonymous in such a way that the data subject is no longer identifiable; …’</p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point4">4</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Article 1 of Directive 95/46, ‘Object of the Directive’, provides:</p>
+        <p class="normal">‘1.   In accordance with this Directive, Member States shall protect the fundamental rights and freedoms of natural persons, and in particular their right to privacy with respect to the processing of personal data.</p>
+        <p class="normal">2.   Member States shall neither restrict nor prohibit the free flow of personal data between Member States for reasons connected with the protection afforded under paragraph 1.’</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point5">5</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Article 2 of Directive 95/46, ‘Definitions’, reads as follows:</p>
+        <p class="normal">‘For the purposes of this Directive:</p>
+        <p class="normal">…</p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">(b)</p>
+            </td>
+            <td valign="top">
+              <p class="normal">“processing of personal data” (“processing”) shall mean any operation or set of operations which is performed upon personal data, whether or not by automatic means, such as collection, recording, organisation, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, blocking, erasure or destruction;</p>
+            </td>
+          </tr>
+        </table>
+        <p class="normal">...</p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">(d)</p>
+            </td>
+            <td valign="top">
+              <p class="normal">“controller” shall mean the natural or legal person, public authority, agency or any other body which alone or jointly with others determines the purposes and means of the processing of personal data; where the purposes and means of processing are determined by national or [EU] laws or regulations, the controller or the specific criteria for his nomination may be designated by national or [EU] law;</p>
+            </td>
+          </tr>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">(e)</p>
+            </td>
+            <td valign="top">
+              <p class="normal">“processor” shall mean a natural or legal person, public authority, agency or any other body which processes personal data on behalf of the controller;</p>
+            </td>
+          </tr>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">(f)</p>
+            </td>
+            <td valign="top">
+              <p class="normal">“third party” shall mean any natural or legal person, public authority, agency or any other body other than the data subject, the controller, the processor and the persons who, under the direct authority of the controller or the processor, are authorised to process the data;</p>
+            </td>
+          </tr>
+        </table>
+        <p class="normal">...’</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point6">6</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Article 4 of that directive, ‘National law applicable’, provides in paragraph 1:</p>
+        <p class="normal">‘Each Member State shall apply the national provisions it adopts pursuant to this Directive to the processing of personal data where:</p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">(a)</p>
+            </td>
+            <td valign="top">
+              <p class="normal">the processing is carried out in the context of the activities of an establishment of the controller on the territory of the Member State; when the same controller is established on the territory of several Member States, he must take the necessary measures to ensure that each of these establishments complies with the obligations laid down by the national law applicable;</p>
+            </td>
+          </tr>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">(b)</p>
+            </td>
+            <td valign="top">
+              <p class="normal">the controller is not established on the Member State’s territory, but in a place where its national law applies by virtue of international public law;</p>
+            </td>
+          </tr>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">(c)</p>
+            </td>
+            <td valign="top">
+              <p class="normal">the controller is not established on [EU] territory and, for purposes of processing personal data makes use of equipment, automated or otherwise, situated on the territory of the said Member State, unless such equipment is used only for purposes of transit through the territory of the [European Union].’</p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point7">7</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Article 17 of the directive, ‘Security of processing’, provides in paragraphs 1 and 2:</p>
+        <p class="normal">‘1.   Member States shall provide that the controller must implement appropriate technical and organisational measures to protect personal data against accidental or unlawful destruction or accidental loss, alteration, unauthorised disclosure or access, in particular where the processing involves the transmission of data over a network, and against all other unlawful forms of processing.</p>
+        <p class="normal">Having regard to the state of the art and the cost of their implementation, such measures shall ensure a level of security appropriate to the risks represented by the processing and the nature of the data to be protected.</p>
+        <p class="normal">2.   The Member States shall provide that the controller must, where processing is carried out on his behalf, choose a processor providing sufficient guarantees in respect of the technical security measures and organisational measures governing the processing to be carried out, and must ensure compliance with those measures.’</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point8">8</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Article 24 of the directive, ‘Sanctions’, provides:</p>
+        <p class="normal">‘The Member States shall adopt suitable measures to ensure the full implementation of the provisions of this Directive and shall in particular lay down the sanctions to be imposed in case of infringement of the provisions adopted pursuant to this Directive.’</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point9">9</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Article 28 of the directive, ‘Supervisory authority’, reads as follows:</p>
+        <p class="normal">‘1.   Each Member State shall provide that one or more public authorities are responsible for monitoring the application within its territory of the provisions adopted by the Member States pursuant to this Directive.</p>
+        <p class="normal">These authorities shall act with complete independence in exercising the functions entrusted to them.</p>
+        <p class="normal">2.   Each Member State shall provide that the supervisory authorities are consulted when drawing up administrative measures or regulations relating to the protection of individuals’ rights and freedoms with regard to the processing of personal data.</p>
+        <p class="normal">3.   Each authority shall in particular be endowed with:</p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">–</p>
+            </td>
+            <td valign="top">
+              <p class="normal">investigative powers, such as powers of access to data forming the subject-matter of processing operations and powers to collect all the information necessary for the performance of its supervisory duties,</p>
+            </td>
+          </tr>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">–</p>
+            </td>
+            <td valign="top">
+              <p class="normal">effective powers of intervention, such as, for example, that of delivering opinions before processing operations are carried out, in accordance with Article 20, and ensuring appropriate publication of such opinions, of ordering the blocking, erasure or destruction of data, of imposing a temporary or definitive ban on processing, of warning or admonishing the controller, or that of referring the matter to national parliaments or other political institutions,</p>
+            </td>
+          </tr>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">–</p>
+            </td>
+            <td valign="top">
+              <p class="normal">the power to engage in legal proceedings where the national provisions adopted pursuant to this Directive have been violated or to bring these violations to the attention of the judicial authorities.</p>
+            </td>
+          </tr>
+        </table>
+        <p class="normal">Decisions by the supervisory authority which give rise to complaints may be appealed against through the courts.</p>
+        <p class="normal">...</p>
+        <p class="normal">6.   Each supervisory authority is competent, whatever the national law applicable to the processing in question, to exercise, on the territory of its own Member State, the powers conferred on it in accordance with paragraph 3. Each authority may be requested to exercise its powers by an authority of another Member State.</p>
+        <p class="normal">The supervisory authorities shall cooperate with one another to the extent necessary for the performance of their duties, in particular by exchanging all useful information.</p>
+        <p class="normal">...’</p>
+      </td>
+    </tr>
+  </table>
+  <p class="title-grseq-2">
+    <span class="bold">
+      <span class="italic">German law</span>
+    </span>
+  </p>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point10">10</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Paragraph 3(7) of the Bundesdatenschutzgesetz (Federal Law on data protection), in the version applicable to the main proceedings (‘the BDSG’), reads as follows:</p>
+        <p class="normal">‘A responsible entity is any person or entity which collects, processes or uses personal data on its own behalf, or commissions others to do this.’</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point11">11</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Paragraph 11 of the BDSG, ‘Collection, processing or use of personal data by entities commissioned’, reads:</p>
+        <p class="normal">‘(1)   If personal data is collected, processed or used by other entities commissioned to do so, the commissioning entity is responsible for compliance with the provisions of this law and with other provisions on data protection. …</p>
+        <p class="normal">(2)   The entity commissioned must be selected carefully with particular account being taken of the suitability of the technical and organisational measures taken by it. The commission must be given in writing, with the following in particular being determined in detail: …</p>
+        <p class="normal">The commissioning entity must satisfy itself, before the start of the data processing and regularly thereafter, that the technical and organisational measures taken by the entity commissioned are complied with. The results must be documented.</p>
+        <p class="normal">…’</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point12">12</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Paragraph 38(5) of the BDSG provides:</p>
+        <p class="normal">‘To ensure compliance with this law and with other provisions on data protection, the supervisory authority may order measures to eliminate breaches that have been ascertained in the collection, processing or use of personal data or technical or organisational defects. In the case of serious breaches or defects, in particular those which are associated with a particular threat to the right to protection of personality, it can prohibit the collection, processing or use or the application of specific procedures if the breaches or defects are not eliminated within a reasonable time, contrary to an order in accordance with the first sentence and despite the imposition of a penalty payment. It can require the data protection officer to be removed if he does not possess the expert knowledge and reliability needed to perform his duties.’</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point13">13</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Paragraph 12 of the Telemediengesetz (Law on electronic media) of 26 February 2007 (BGBl. 2007 I, p. 179, ‘the TMG’) reads as follows:</p>
+        <p class="normal">‘(1)   The service provider may collect and use personal data for the provision of electronic media only where this law or another provision of law expressly relating to electronic media permits it or the user has consented.</p>
+        <p class="normal">...</p>
+        <p class="normal">(3)   Except as provided otherwise, the provisions in force for the protection of personal data are to be applied even if the data is not processed automatically.’</p>
+      </td>
+    </tr>
+  </table>
+  <p class="sum-title-1">
+    <span class="bold">The dispute in the main proceedings and the questions referred for a preliminary ruling</span>
+  </p>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point14">14</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Wirtschaftsakademie offers educational services by means of a fan page hosted on Facebook.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point15">15</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Fan pages are user accounts that can be set up on Facebook by individuals or businesses. To do so, the author of the fan page, after registering with Facebook, can use the platform designed by Facebook to introduce himself to the users of that social network and to persons visiting the fan page, and to post any kind of communication in the media and opinion market. Administrators of fan pages can obtain anonymous statistical information on visitors to the fan pages via a function called ‘Facebook Insights’ which Facebook makes available to them free of charge under non-negotiable conditions of use. That information is collected by means of evidence files (‘cookies’), each containing a unique user code, which are active for two years and are stored by Facebook on the hard disk of the computer or on other media of visitors to fan pages. The user code, which can be matched with the connection data of users registered on Facebook, is collected and processed when the fan pages are opened. According to the order for reference, neither Wirtschaftsakademie nor Facebook Ireland Ltd notified the storage and functioning of the cookie or the subsequent processing of the data, at least during the material period for the main proceedings.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point16">16</p>
+      </td>
+      <td valign="top">
+        <p class="normal">
+          By decision of 3 November 2011 (‘the contested decision’), the ULD, as supervisory authority within the meaning of Article 28 of Directive 95/46, with the task of supervising the application in the
+          <span class="italic">Land</span>
+          of Schleswig-Holstein (Germany) of the provisions adopted by the Federal Republic of Germany pursuant to that directive, ordered Wirtschaftsakademie, in accordance with the first sentence of Paragraph 38(5) of the BDSG, to deactivate the fan page it had set up on Facebook at the address www.facebook.com/wirtschaftsakademie, on pain of a penalty payment if it failed to comply within the prescribed period, on the ground that neither Wirtschaftsakademie nor Facebook informed visitors to the fan page that Facebook, by means of cookies, collected personal data concerning them and then processed the data. Wirtschaftsakademie brought a complaint against that decision, arguing essentially that it was not responsible under data protection law for the processing of the data by Facebook or the cookies which Facebook installed.
+        </p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point17">17</p>
+      </td>
+      <td valign="top">
+        <p class="normal">By decision of 16 December 2011, the ULD dismissed the complaint, finding that Wirtschaftsakademie as a service provider was liable under Paragraph 3(3)(4) and Paragraph 12(1) of the TMG in conjunction with Paragraph 3(7) of the BDSG. The ULD stated that, by setting up its fan page, Wirtschaftsakademie had made an active and deliberate contribution to the collection by Facebook of personal data relating to visitors to the fan page, from which it profited by means of the statistics provided to it by Facebook.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point18">18</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Wirtschaftsakademie brought an action against that decision in the Verwaltungsgericht (Administrative Court, Germany), submitting that the processing of personal data by Facebook could not be attributed to it and that it had not commissioned Facebook within the meaning of Paragraph 11 of the BDSG to process data that it controlled or was able to influence. Wirtschaftsakademie concluded that the ULD should have acted directly against Facebook instead of adopting the contested decision against it.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point19">19</p>
+      </td>
+      <td valign="top">
+        <p class="normal">By judgment of 9 October 2013, the Verwaltungsgericht (Administrative Court) annulled the contested decision, essentially on the ground that, since the administrator of a fan page on Facebook is not a responsible entity within the meaning of Paragraph 3(7) of the BDSG, Wirtschaftsakademie could not be the addressee of a measure taken under Paragraph 38(5) of the BDSG.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point20">20</p>
+      </td>
+      <td valign="top">
+        <p class="normal">The Oberverwaltungsgericht (Higher Administrative Court, Germany) dismissed the ULD’s appeal against that judgment as unfounded. It found essentially that the prohibition of the processing of data in the contested decision was unlawful, in that the second sentence of Paragraph 38(5) of the BDSG lays down a step-by-step procedure whose first step allows only the adoption of measures for the elimination of infringements that have been ascertained in the processing of data. An immediate prohibition of the processing of data comes into consideration only if a data processing procedure is unlawful in its entirety and the only possible remedy is to terminate it. According to the Oberverwaltungsgericht (Higher Administrative Court), that was not the case here, since it would have been possible for Facebook to put an end to the infringements alleged by the ULD.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point21">21</p>
+      </td>
+      <td valign="top">
+        <p class="normal">The Oberverwaltungsgericht (Higher Administrative Court) further stated that the contested decision was also unlawful on the ground that an order under Paragraph 38(5) of the BDSG may only be made against the responsible entity within the meaning of Paragraph 3(7) of the BDSG, and that Wirtschaftsakademie was not such an entity in relation to the data collected by Facebook. Facebook alone decided on the purpose and means of collecting and processing personal data used for the Facebook Insights function, Wirtschaftsakademie receiving only anonymised statistical information.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point22">22</p>
+      </td>
+      <td valign="top">
+        <p class="normal">The ULD appealed on a point of law to the Bundesverwaltungsgericht (Federal Administrative Court, Germany), relying inter alia on an infringement of Paragraph 38(5) of the BDSG and on a number of procedural errors vitiating the appellate court’s decision. It considers that the infringement committed by Wirtschaftsakademie consisted in commissioning an inappropriate supplier — inappropriate because it did not comply with the applicable data protection law — namely Facebook Ireland, to create, host and maintain a website. The order to Wirtschaftsakademie to deactivate its fan page, imposed by the contested decision, was thus intended to remedy that breach, since it prohibited it from continuing to make use of Facebook infrastructure as the technical basis of its website.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point23">23</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Like the Oberverwaltungsgericht (Higher Administrative Court), the Bundesverwaltungsgericht (Federal Administrative Court) takes the view that Wirtschaftsakademie cannot itself be regarded as responsible for the data processing within the meaning Paragraph 3(7) of the BDSG or Article 2(d) of Directive 95/46. It considers nevertheless that the concept of controller should in principle be interpreted broadly, in the interests of effective protection of the right of privacy, as the Court has held in its recent case-law on the point. It further entertains doubts as to the powers of the ULD with respect to Facebook Germany in the present case, given that it is Facebook Ireland that is responsible, at EU level, for the collection and processing of personal data within the Facebook group. Finally, it is uncertain as to the effect, for the purpose of the exercise of the ULD’s powers of intervention, of the assessments made by the supervisory authority to which Facebook Ireland is subject concerning the lawfulness of the processing of personal data at issue.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point24">24</p>
+      </td>
+      <td valign="top">
+        <p class="normal">In those circumstances, the Bundesverwaltungsgericht (Federal Administrative Court) decided to stay the proceedings and to refer the following questions to the Court for a preliminary ruling:</p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">‘(1)</p>
+            </td>
+            <td valign="top">
+              <p class="normal">Is Article 2(d) of Directive [95/46] to be interpreted as definitively and exhaustively defining the liability and responsibility for data protection infringements, or does scope remain, under the “suitable measures” pursuant to Article 24 of Directive [95/46] and the “effective powers of intervention” pursuant to the second indent of Article 28(3) of Directive [95/46], in multi-tiered information provider relationships, for responsibility of an entity that does not control the data processing within the meaning of Article 2(d) of Directive [95/46] when it chooses the operator of its information offering?</p>
+            </td>
+          </tr>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">(2)</p>
+            </td>
+            <td valign="top">
+              <p class="normal">
+                Does it follow
+                <span class="italic">a contrario</span>
+                from the obligation of Member States under Article 17(2) of Directive [95/46] to provide, where data processing is carried out on the controller’s behalf, that the controller must “choose a processor providing sufficient guarantees in respect of the technical security measures and organisational measures governing the processing to be carried out”, that, where there are other user relationships not linked to data processing on the controller’s behalf within the meaning of Article 2(e) of Directive [95/46], there is no obligation to make a careful selection and no such obligation can be based on national law?
+              </p>
+            </td>
+          </tr>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">(3)</p>
+            </td>
+            <td valign="top">
+              <p class="normal">In cases in which a parent company based outside the European Union has legally independent establishments (subsidiaries) in various Member States, is the supervisory authority of a Member State (in this case, Germany) entitled under Article 4 and Article 28(6) of Directive [95/46] to exercise the powers conferred under Article 28(3) of Directive [95/46] against the establishment located in its territory even when this establishment is responsible solely for promoting the sale of advertising and other marketing measures aimed at the inhabitants of that Member State, whereas the independent establishment (subsidiary) located in another Member State (in this case, Ireland) is exclusively responsible within the group’s internal division of tasks for collecting and processing personal data throughout the entire territory of the European Union and hence in the other Member State as well (in this case, Germany), if the decision on the data processing is in fact taken by the parent company?</p>
+            </td>
+          </tr>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">(4)</p>
+            </td>
+            <td valign="top">
+              <p class="normal">Are Article 4(1)(a) and Article 28(3) of Directive [95/46] to be interpreted as meaning that, in cases in which the controller has an establishment in the territory of one Member State (in this case, Ireland) and there is another, legally independent establishment in the territory of another Member State (in this case, Germany), whose responsibilities include the sale of advertising space and whose activity is aimed at the inhabitants of that State, the competent supervisory authority in this other Member State (in this case, Germany) may direct measures and orders implementing data protection legislation also against the other establishment (in this case, in Germany) not responsible for data processing under the group’s internal division of tasks and responsibilities, or are measures and orders only possible by the supervisory body of the Member State (in this case, Ireland) in whose territory the entity with internal responsibility within the group has its registered office?</p>
+            </td>
+          </tr>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">(5)</p>
+            </td>
+            <td valign="top">
+              <p class="normal">Are Article 4(1)(a) and Article 28(3) and (6) of Directive [95/46] to be interpreted as meaning that, in cases in which the supervisory authority in one Member State (in this case, Germany) takes action against a person or entity in its territory pursuant to Article 28(3) of Directive [95/46] on the grounds of failure carefully to select a third party involved in the data processing process (in this case, Facebook), because that third party infringes data protection legislation, the active supervisory authority (in this case, Germany) is bound by the appraisal made under data protection legislation by the supervisory authority of the Member State in which the third party responsible for the data processing has its establishment (in this case, Ireland) meaning that it may not arrive at a different legal appraisal, or may the active supervisory authority (in this case, Germany) conduct its own examination of the lawfulness of the data processing by the third party established in another Member State (in this case, Ireland) as a preliminary question prior to its own action?</p>
+            </td>
+          </tr>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">(6)</p>
+            </td>
+            <td valign="top">
+              <p class="normal">If the possibility of conducting an independent examination is available to the active supervisory authority (in this case, Germany), is the second sentence of Article 28(6) of Directive [95/46] to be interpreted as meaning that this supervisory authority may exercise the effective powers of intervention conferred on it under Article 28(3) of Directive [95/46] against a person or entity established in its territory on the grounds of their joint responsibility for data protection infringements by a third party established in another Member State only if and not until it has first requested the supervisory authority in this other Member State (in this case, Ireland) to exercise its powers?’</p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  <p class="sum-title-1">
+    <span class="bold">Consideration of the questions referred</span>
+  </p>
+  <p class="title-grseq-2">
+    <span class="bold">
+      <span class="italic">Questions 1 and 2</span>
+    </span>
+  </p>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point25">25</p>
+      </td>
+      <td valign="top">
+        <p class="normal">By its first and second questions, which should be considered together, the referring court essentially wishes to know whether Article 2(d), Article 17(2), Article 24 and the second indent of Article 28(3) of Directive 95/46 must be interpreted as allowing an entity to be held liable in its capacity as administrator of a fan page on a social network where the rules on the protection of personal data are infringed, because it has chosen to make use of that social network to distribute the information it offers.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point26">26</p>
+      </td>
+      <td valign="top">
+        <p class="normal">
+          To answer those questions, it must be recalled that, as is apparent from Article 1(1) and recital 10 of Directive 95/46, the directive aims to ensure a high level of protection of the fundamental rights and freedoms of natural persons, in particular their right to privacy, with respect to the processing of personal data (judgment of 11 December 2014, Ryneš,
+          <a href="./../../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A2428&amp;locale=en" target="CourtTab" type="application/xml;notice=branch" hreflang="en" class="CourtLink">C‑212/13</a>
+          ,
+          <a href="./../../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2428&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" target="CourtTab" type="application/pdf" hreflang="en" class="CourtLink">EU:C:2014:2428</a>
+          , paragraph 
+          <a href="./../../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A2428&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point27" target="CourtTab" type="application/xhtml+xml" hreflang="en" class="CourtLink">27</a>
+          and the case-law cited).
+        </p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point27">27</p>
+      </td>
+      <td valign="top">
+        <p class="normal">In accordance with that aim, Article 2(d) of the directive defines the concept of ‘controller’ broadly as the natural or legal person, public authority, agency or any other body which alone or jointly with others determines the purposes and means of the processing of personal data.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point28">28</p>
+      </td>
+      <td valign="top">
+        <p class="normal">
+          As the Court has previously held, the objective of that provision is to ensure, through a broad definition of the concept of ‘controller’, effective and complete protection of the persons concerned (judgment of 13 May 2014, Google Spain and Google,
+          <a href="./../../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A317&amp;locale=en" target="CourtTab" type="application/xml;notice=branch" hreflang="en" class="CourtLink">C‑131/12</a>
+          ,
+          <a href="./../../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A317&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" target="CourtTab" type="application/pdf" hreflang="en" class="CourtLink">EU:C:2014:317</a>
+          , paragraph 
+          <a href="./../../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A317&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point34" target="CourtTab" type="application/xhtml+xml" hreflang="en" class="CourtLink">34</a>
+          ).
+        </p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point29">29</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Furthermore, since, as Article 2(d) of Directive 95/46 expressly provides, the concept of ‘controller’ relates to the entity which ‘alone or jointly with others’ determines the purposes and means of the processing of personal data, that concept does not necessarily refer to a single entity and may concern several actors taking part in that processing, with each of them then being subject to the applicable data protection provisions.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point30">30</p>
+      </td>
+      <td valign="top">
+        <p class="normal">In the present case, Facebook Inc. and, for the European Union, Facebook Ireland must be regarded as primarily determining the purposes and means of processing the personal data of users of Facebook and persons visiting the fan pages hosted on Facebook, and therefore fall within the concept of ‘controller’ within the meaning of Article 2(d) of Directive 95/46, which is not challenged in the present case.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point31">31</p>
+      </td>
+      <td valign="top">
+        <p class="normal">That being so, and in order to answer the questions referred, it must be examined whether and to what extent the administrator of a fan page hosted on Facebook, such as Wirtschaftsakademie, contributes in the context of that fan page to determining, jointly with Facebook Ireland and Facebook Inc., the purposes and means of processing the personal data of the visitors to the fan page and may therefore also be regarded as a ‘controller’ within the meaning of Article 2(d) of Directive 95/46.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point32">32</p>
+      </td>
+      <td valign="top">
+        <p class="normal">It appears that any person wishing to create a fan page on Facebook concludes a specific contract with Facebook Ireland for the opening of such a page, and thereby subscribes to the conditions of use of the page, including the policy on cookies, which is for the national court to ascertain.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point33">33</p>
+      </td>
+      <td valign="top">
+        <p class="normal">According to the documents before the Court, the data processing at issue in the main proceedings is essentially carried out by Facebook placing cookies on the computer or other device of persons visiting the fan page, whose purpose is to store information on the browsers, those cookies remaining active for two years if not deleted. It also appears that in practice Facebook receives, registers and processes the information stored in the cookies in particular when a person visits ‘the Facebook services, services provided by other members of the Facebook family of companies, and services provided by other companies that use the Facebook services’. Moreover, other entities such as Facebook partners or even third parties ‘may use cookies on the Facebook services to provide services [directly to that social network] and the businesses that advertise on Facebook’.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point34">34</p>
+      </td>
+      <td valign="top">
+        <p class="normal">That processing of personal data is intended in particular to enable Facebook to improve its system of advertising transmitted via its network, and to enable the fan page administrator to obtain statistics produced by Facebook from the visits to the page, for the purposes of managing the promotion of its activity, making it aware, for example, of the profile of the visitors who like its fan page or use its applications, so that it can offer them more relevant content and develop functionalities likely to be of more interest to them.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point35">35</p>
+      </td>
+      <td valign="top">
+        <p class="normal">While the mere fact of making use of a social network such as Facebook does not make a Facebook user a controller jointly responsible for the processing of personal data by that network, it must be stated, on the other hand, that the administrator of a fan page hosted on Facebook, by creating such a page, gives Facebook the opportunity to place cookies on the computer or other device of a person visiting its fan page, whether or not that person has a Facebook account.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point36">36</p>
+      </td>
+      <td valign="top">
+        <p class="normal">In this context, according to the submissions made to the Court, the creation of a fan page on Facebook involves the definition of parameters by the administrator, depending inter alia on the target audience and the objectives of managing and promoting its activities, which has an influence on the processing of personal data for the purpose of producing statistics based on visits to the fan page. The administrator may, with the help of filters made available by Facebook, define the criteria in accordance with which the statistics are to be drawn up and even designate the categories of persons whose personal data is to be made use of by Facebook. Consequently, the administrator of a fan page hosted on Facebook contributes to the processing of the personal data of visitors to its page.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point37">37</p>
+      </td>
+      <td valign="top">
+        <p class="normal">In particular, the administrator of the fan page can ask for — and thereby request the processing of — demographic data relating to its target audience, including trends in terms of age, sex, relationship and occupation, information on the lifestyles and centres of interest of the target audience and information on the purchases and online purchasing habits of visitors to its page, the categories of goods and services that appeal the most, and geographical data which tell the fan page administrator where to make special offers and where to organise events, and more generally enable it to target best the information it offers.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point38">38</p>
+      </td>
+      <td valign="top">
+        <p class="normal">While the audience statistics compiled by Facebook are indeed transmitted to the fan page administrator only in anonymised form, it remains the case that the production of those statistics is based on the prior collection, by means of cookies installed by Facebook on the computers or other devices of visitors to that page, and the processing of the personal data of those visitors for such statistical purposes. In any event, Directive 95/46 does not, where several operators are jointly responsible for the same processing, require each of them to have access to the personal data concerned.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point39">39</p>
+      </td>
+      <td valign="top">
+        <p class="normal">In those circumstances, the administrator of a fan page hosted on Facebook, such as Wirtschaftsakademie, must be regarded as taking part, by its definition of parameters depending in particular on its target audience and the objectives of managing and promoting its activities, in the determination of the purposes and means of processing the personal data of the visitors to its fan page. The administrator must therefore be categorised, in the present case, as a controller responsible for that processing within the European Union, jointly with Facebook Ireland, within the meaning of Article 2(d) of Directive 95/46.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point40">40</p>
+      </td>
+      <td valign="top">
+        <p class="normal">The fact that an administrator of a fan page uses the platform provided by Facebook in order to benefit from the associated services cannot exempt it from compliance with its obligations concerning the protection of personal data.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point41">41</p>
+      </td>
+      <td valign="top">
+        <p class="normal">It must be emphasised, moreover, that fan pages hosted on Facebook can also be visited by persons who are not Facebook users and so do not have a user account on that social network. In that case, the fan page administrator’s responsibility for the processing of the personal data of those persons appears to be even greater, as the mere consultation of the home page by visitors automatically starts the processing of their personal data.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point42">42</p>
+      </td>
+      <td valign="top">
+        <p class="normal">In those circumstances, the recognition of joint responsibility of the operator of the social network and the administrator of a fan page hosted on that network in relation to the processing of the personal data of visitors to that page contributes to ensuring more complete protection of the rights of persons visiting a fan page, in accordance with the requirements of Directive 95/46.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point43">43</p>
+      </td>
+      <td valign="top">
+        <p class="normal">However, it should be pointed out, as the Advocate General observes in points 75 and 76 of his Opinion, that the existence of joint responsibility does not necessarily imply equal responsibility of the various operators involved in the processing of personal data. On the contrary, those operators may be involved at different stages of that processing of personal data and to different degrees, so that the level of responsibility of each of them must be assessed with regard to all the relevant circumstances of the particular case.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point44">44</p>
+      </td>
+      <td valign="top">
+        <p class="normal">In the light of the above considerations, the answer to Questions 1 and 2 is that Article 2(d) of Directive 95/46 must be interpreted as meaning that the concept of ‘controller’ within the meaning of that provision encompasses the administrator of a fan page hosted on a social network.</p>
+      </td>
+    </tr>
+  </table>
+  <p class="title-grseq-2">
+    <span class="bold">
+      <span class="italic">Questions 3 and 4</span>
+    </span>
+  </p>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point45">45</p>
+      </td>
+      <td valign="top">
+        <p class="normal">By its third and fourth questions, which should be considered together, the referring court essentially wishes to know whether Articles 4 and 28 of Directive 95/46 must be interpreted as meaning that, where an undertaking established outside the European Union has several establishments in different Member States, the supervisory authority of a Member State is entitled to exercise the powers conferred on it by Article 28(3) of that directive with respect to an establishment situated in the territory of that Member State even if, as a result of the division of tasks within the group, first, that establishment is responsible solely for the sale of advertising space and other marketing activities in the territory of that Member State and, second, exclusive responsibility for collecting and processing personal data belongs, for the entire territory of the European Union, to an establishment situated in another Member State, or whether it is for the supervisory authority of that other Member State to exercise those powers with respect to the second establishment.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point46">46</p>
+      </td>
+      <td valign="top">
+        <p class="normal">The ULD and the Italian Government express doubts as to the admissibility of those questions, on the ground that they are not relevant to the outcome of the main proceedings. They submit that the contested decision is addressed to Wirtschaftsakademie and does not therefore concern Facebook Inc. or any of its subsidiaries established in EU territory.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point47">47</p>
+      </td>
+      <td valign="top">
+        <p class="normal">
+          On this point, it must be recalled that, in the context of the cooperation between the Court and the national courts provided for in Article 267 TFEU, it is solely for the national court, before which the dispute has been brought and which must assume responsibility for the subsequent judicial decision, to determine in the light of the particular circumstances of the case both the need for a preliminary ruling in order to enable it to deliver judgment and the relevance of the questions which it submits to the Court. Consequently, where the questions submitted concern the interpretation of EU law, the Court is, in principle, bound to give a ruling (judgment of 6 September 2016, Petruhhin,
+          <a href="./../../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A630&amp;locale=en" target="CourtTab" type="application/xml;notice=branch" hreflang="en" class="CourtLink">C‑182/15</a>
+          ,
+          <a href="./../../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A630&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" target="CourtTab" type="application/pdf" hreflang="en" class="CourtLink">EU:C:2016:630</a>
+          , paragraph 
+          <a href="./../../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A630&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point19" target="CourtTab" type="application/xhtml+xml" hreflang="en" class="CourtLink">19</a>
+          and the case-law cited).
+        </p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point48">48</p>
+      </td>
+      <td valign="top">
+        <p class="normal">In the present case, it should be noted that the referring court states that an answer by the Court to its third and fourth questions is necessary for it to rule on the main proceedings. It explains that, should it be found in the light of that answer that the ULD could remedy the alleged infringements of the right to protection of personal data by taking a measure against Facebook Germany, such a finding could indicate that the contested decision was vitiated by an error of assessment, in that it was wrongly taken against Wirtschaftsakademie.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point49">49</p>
+      </td>
+      <td valign="top">
+        <p class="normal">In those circumstances, Questions 3 and 4 are admissible.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point50">50</p>
+      </td>
+      <td valign="top">
+        <p class="normal">
+          To answer those questions, it must be recalled as a preliminary point that, in accordance with Article 28(1) and (3) of Directive 95/46, each supervisory authority is to exercise all the powers conferred on it by national law in the territory of its own Member State, in order to ensure compliance with the data protection rules in that territory (see, to that effect, judgment of 1 October 2015, Weltimmo,
+          <a href="./../../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A639&amp;locale=en" target="CourtTab" type="application/xml;notice=branch" hreflang="en" class="CourtLink">C‑230/14</a>
+          ,
+          <a href="./../../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A639&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" target="CourtTab" type="application/pdf" hreflang="en" class="CourtLink">EU:C:2015:639</a>
+          , paragraph 
+          <a href="./../../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A639&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point51" target="CourtTab" type="application/xhtml+xml" hreflang="en" class="CourtLink">51</a>
+          ).
+        </p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point51">51</p>
+      </td>
+      <td valign="top">
+        <p class="normal">The question of which national law applies to the processing of personal data is governed by Article 4 of Directive 95/46. As stated in Article 4(1)(a), each Member State is to apply the national provisions it adopts pursuant to the directive to the processing of personal data, where the processing is carried out in the context of the activities of an establishment of the controller on the territory of the Member State. That provision states that, where the same controller is established on the territory of several Member States, he must take the necessary measures to ensure that each of those establishments complies with the obligations laid down by the national law applicable.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point52">52</p>
+      </td>
+      <td valign="top">
+        <p class="normal">It thus follows from a reading of that provision in conjunction with Article 28(1) and (3) of Directive 95/46 that, where the national law of the Member State of the supervisory authority is applicable under Article 4(1)(a) of the directive because the processing in question is carried out in the context of the activities of an establishment of the controller in the territory of that Member State, that supervisory authority can exercise all the powers conferred on it by that law in respect of that establishment, regardless of whether the controller also has establishments in other Member States.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point53">53</p>
+      </td>
+      <td valign="top">
+        <p class="normal">In order, therefore, to determine whether, in circumstances such as those of the main proceedings, a supervisory authority is entitled to exercise the powers conferred on it by national law against an establishment situated in the territory of its own Member State, it must be ascertained whether the two conditions laid down by Article 4(1)(a) of Directive 95/46 are satisfied, in other words, whether there is an ‘establishment of the controller’ within the meaning of that provision and whether the processing is carried out ‘in the context of the activities’ of the establishment, also within the meaning of that provision.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point54">54</p>
+      </td>
+      <td valign="top">
+        <p class="normal">
+          As regards, first, the condition that the controller responsible for the processing of personal data must have an establishment in the territory of the Member State of the supervisory authority, it must be recalled that, according to recital 19 of Directive 95/46, establishment in the territory of a Member State implies the effective and real exercise of activity through stable arrangements, and the legal form of such an establishment, whether simply a branch or a subsidiary with a legal personality, is not the determining factor (judgment of 1 October 2015, Weltimmo,
+          <a href="./../../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A639&amp;locale=en" target="CourtTab" type="application/xml;notice=branch" hreflang="en" class="CourtLink">C‑230/14</a>
+          ,
+          <a href="./../../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A639&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" target="CourtTab" type="application/pdf" hreflang="en" class="CourtLink">EU:C:2015:639</a>
+          , paragraph 
+          <a href="./../../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A639&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point28" target="CourtTab" type="application/xhtml+xml" hreflang="en" class="CourtLink">28</a>
+          and the case-law cited).
+        </p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point55">55</p>
+      </td>
+      <td valign="top">
+        <p class="normal">In the present case, it is common ground that Facebook Inc., as controller jointly responsible with Facebook Ireland for processing personal data, has a permanent establishment in Germany, namely Facebook Germany, situated in Hamburg, and that Facebook Germany effectively and genuinely exercises activities in that Member State. It is therefore an establishment within the meaning of Article 4(1)(a) of Directive 95/46.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point56">56</p>
+      </td>
+      <td valign="top">
+        <p class="normal">
+          As regards, second, the condition that the processing of personal data must be carried out ‘in the context of the activities’ of the establishment in question, it must be recalled, to begin with, that in view of the objective pursued by Directive 95/46 of ensuring effective and complete protection of the fundamental rights and freedoms of natural persons, and in particular their right to privacy with respect to the processing of personal data, the expression ‘in the context of the activities of an establishment’ cannot be interpreted restrictively (judgment of 1 October 2015, Weltimmo,
+          <a href="./../../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A639&amp;locale=en" target="CourtTab" type="application/xml;notice=branch" hreflang="en" class="CourtLink">C‑230/14</a>
+          ,
+          <a href="./../../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A639&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" target="CourtTab" type="application/pdf" hreflang="en" class="CourtLink">EU:C:2015:639</a>
+          , paragraph 
+          <a href="./../../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A639&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point25" target="CourtTab" type="application/xhtml+xml" hreflang="en" class="CourtLink">25</a>
+          and the case-law cited).
+        </p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point57">57</p>
+      </td>
+      <td valign="top">
+        <p class="normal">
+          Next, it must be pointed out that Article 4(1)(a) of Directive 95/46 does not require that such processing be carried out ‘by’ the establishment concerned itself, but only that it be carried out ‘in the context of the activities of’ the establishment (judgment of 13 May 2014, Google Spain and Google,
+          <a href="./../../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A317&amp;locale=en" target="CourtTab" type="application/xml;notice=branch" hreflang="en" class="CourtLink">C‑131/12</a>
+          ,
+          <a href="./../../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A317&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" target="CourtTab" type="application/pdf" hreflang="en" class="CourtLink">EU:C:2014:317</a>
+          , paragraph 
+          <a href="./../../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A317&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point52" target="CourtTab" type="application/xhtml+xml" hreflang="en" class="CourtLink">52</a>
+          ).
+        </p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point58">58</p>
+      </td>
+      <td valign="top">
+        <p class="normal">In the present case, the order for reference and the written observations submitted by Facebook Ireland show that Facebook Germany is responsible for promoting and selling advertising space and carries on activities addressed to persons residing in Germany.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point59">59</p>
+      </td>
+      <td valign="top">
+        <p class="normal">As noted in paragraphs 33 and 34 above, the processing of personal data at issue in the main proceedings, carried out by Facebook Inc. jointly with Facebook Ireland, consisting in collecting personal data by means of cookies installed on the computers or other devices of visitors to fan pages hosted on Facebook, is intended, in particular, to enable Facebook to improve its system of advertising, in order better to target its communications.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point60">60</p>
+      </td>
+      <td valign="top">
+        <p class="normal">
+          As the Advocate General observes in point 94 of his Opinion, given that a social network such as Facebook generates a substantial part of its income from advertisements posted on the web pages set up and accessed by users, and given that Facebook’s establishment in Germany is intended to ensure the promotion and sale in Germany of advertising space that makes Facebook’s services profitable, the activities of that establishment must be regarded as inextricably linked to the processing of personal data at issue in the main proceedings, for which Facebook Inc. is jointly responsible with Facebook Ireland. Consequently, such treatment must be regarded as being carried out in the context of the activities of an establishment of the controller within the meaning of Article 4(1)(a) of Directive 95/46 (see, to that effect, judgment of 13 May 2014, Google Spain and Google,
+          <a href="./../../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2014%3A317&amp;locale=en" target="CourtTab" type="application/xml;notice=branch" hreflang="en" class="CourtLink">C‑131/12</a>
+          ,
+          <a href="./../../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A317&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" target="CourtTab" type="application/pdf" hreflang="en" class="CourtLink">EU:C:2014:317</a>
+          , paragraphs 
+          <a href="./../../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A317&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point55" target="CourtTab" type="application/xhtml+xml" hreflang="en" class="CourtLink">55</a>
+          and 
+          <a href="./../../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2014%3A317&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point56" target="CourtTab" type="application/xhtml+xml" hreflang="en" class="CourtLink">56</a>
+          ).
+        </p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point61">61</p>
+      </td>
+      <td valign="top">
+        <p class="normal">It follows that, since German law is applicable to the processing of personal data at issue in the main proceedings in accordance with Article 4(1)(a) of Directive 95/46, the German supervisory authority was competent under Article 28(1) of that directive to apply that law to that processing.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point62">62</p>
+      </td>
+      <td valign="top">
+        <p class="normal">That supervisory authority was therefore competent, for the purpose of ensuring compliance in German territory with the rules on the protection of personal data, to exercise with respect to Facebook Germany all the powers conferred on it under the national provisions transposing Article 28(3) of Directive 95/46.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point63">63</p>
+      </td>
+      <td valign="top">
+        <p class="normal">It should also be stated that the circumstance, emphasised by the referring court in its third question, that the strategic decisions on the collection and processing of personal data relating to persons resident in EU territory are taken by a parent company established in a third country, such as Facebook Inc. in the present case, is not capable of calling in question the competence of the supervisory authority operating under the law of a Member State with respect to an establishment in the territory of that State belonging to the controller responsible for the processing of that data.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point64">64</p>
+      </td>
+      <td valign="top">
+        <p class="normal">In the light of the foregoing, the answer to Questions 3 and 4 is that Articles 4 and 28 of Directive 95/46 must be interpreted as meaning that, where an undertaking established outside the European Union has several establishments in different Member States, the supervisory authority of a Member State is entitled to exercise the powers conferred on it by Article 28(3) of that directive with respect to an establishment of that undertaking situated in the territory of that Member State even if, as a result of the division of tasks within the group, first, that establishment is responsible solely for the sale of advertising space and other marketing activities in the territory of that Member State and, second, exclusive responsibility for collecting and processing personal data belongs, for the entire territory of the European Union, to an establishment situated in another Member State.</p>
+      </td>
+    </tr>
+  </table>
+  <p class="title-grseq-2">
+    <span class="bold">
+      <span class="italic">Questions 5 and 6</span>
+    </span>
+  </p>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point65">65</p>
+      </td>
+      <td valign="top">
+        <p class="normal">By its fifth and sixth questions, which should be considered together, the referring court asks essentially whether Article 4(1)(a) and Article 28(3) and (6) of Directive 95/46 must be interpreted as meaning that, where the supervisory authority of a Member State intends to exercise with respect to an entity established in the territory of that Member State the powers of intervention referred to in Article 28(3) of that directive, on the ground of infringements of the rules on the protection of personal data committed by a third party responsible for the processing of that data whose seat is in another Member State, that supervisory authority is competent to assess, independently of the supervisory authority of the other Member State, the lawfulness of such data processing and may exercise its powers of intervention with respect to the entity established in its territory without first calling on the supervisory authority of the other Member State to intervene.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point66">66</p>
+      </td>
+      <td valign="top">
+        <p class="normal">To answer those questions, it must be recalled, as may be seen from the answer to the first and second questions referred for a preliminary ruling, that Article 2(d) of Directive 95/46 must be interpreted as allowing, in circumstances such as those of the main proceedings, an entity such as Wirtschaftsakademie to be held responsible, as the administrator of a fan page hosted on Facebook, in the event of an infringement of the rules on the protection of personal data.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point67">67</p>
+      </td>
+      <td valign="top">
+        <p class="normal">It follows that, by virtue of Article 4(1)(a) and Article 28(1) and (3) of Directive 95/46, the supervisory authority of the Member State in whose territory that entity is established is competent to apply its national law, and thus to make use against that entity of all the powers conferred on it by its national law, in accordance with Article 28(3) of that directive.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point68">68</p>
+      </td>
+      <td valign="top">
+        <p class="normal">
+          As provided for by the second subparagraph of Article 28(1) of that directive, the supervisory authorities whose task it is to supervise the application, in the territory of their own Member States, of the provisions adopted by those States pursuant to the directive are to act with complete independence in exercising the functions entrusted to them. That requirement also follows from EU primary law, in particular Article 8(3) of the Charter of Fundamental Rights of the European Union and Article 16(2) TFEU (see, to that effect, judgment of 6 October 2015, Schrems,
+          <a href="./../../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A650&amp;locale=en" target="CourtTab" type="application/xml;notice=branch" hreflang="en" class="CourtLink">C‑362/14</a>
+          ,
+          <a href="./../../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A650&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" target="CourtTab" type="application/pdf" hreflang="en" class="CourtLink">EU:C:2015:650</a>
+          , paragraph 
+          <a href="./../../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A650&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point40" target="CourtTab" type="application/xhtml+xml" hreflang="en" class="CourtLink">40</a>
+          ).
+        </p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point69">69</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Furthermore, while under the second subparagraph of Article 28(6) of Directive 95/46 the supervisory authorities are to cooperate with one another to the extent necessary for the performance of their duties, in particular by exchanging all useful information, that directive does not lay down any criterion of priority governing the intervention of one supervisory authority as against another, nor does it lay down an obligation for a supervisory authority of one Member State to comply with a position which may have been expressed by the supervisory authority of another Member State.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point70">70</p>
+      </td>
+      <td valign="top">
+        <p class="normal">A supervisory authority which is competent under its national law is not therefore obliged to adopt the conclusion reached by another supervisory authority in an analogous situation.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point71">71</p>
+      </td>
+      <td valign="top">
+        <p class="normal">
+          It must be recalled that, as the national supervisory authorities are responsible, in accordance with Article 8(3) of the Charter of Fundamental Rights and Article 28 of Directive 95/46, for monitoring compliance with the EU rules concerning the protection of individuals with regard to the processing of personal data, each of them is therefore vested with the power to check whether the processing of personal data in the territory of its own Member State complies with the requirements laid down by Directive 95/46 (see, to that effect, judgment of 6 October 2015, Schrems,
+          <a href="./../../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A650&amp;locale=en" target="CourtTab" type="application/xml;notice=branch" hreflang="en" class="CourtLink">C‑362/14</a>
+          ,
+          <a href="./../../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A650&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" target="CourtTab" type="application/pdf" hreflang="en" class="CourtLink">EU:C:2015:650</a>
+          , paragraph 
+          <a href="./../../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A650&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point47" target="CourtTab" type="application/xhtml+xml" hreflang="en" class="CourtLink">47</a>
+          ).
+        </p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point72">72</p>
+      </td>
+      <td valign="top">
+        <p class="normal">
+          Since Article 28 of Directive 95/46 applies by its very nature to any processing of personal data, even where there is a decision of a supervisory authority of another Member State, a supervisory authority hearing a claim lodged by a person concerning the protection of his rights and freedoms with regard to the processing of personal data relating to him must examine, with complete independence, whether the processing of that data complies with the requirements laid down by that directive (see, to that effect, judgment of 6 October 2015, Schrems,
+          <a href="./../../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2015%3A650&amp;locale=en" target="CourtTab" type="application/xml;notice=branch" hreflang="en" class="CourtLink">C‑362/14</a>
+          ,
+          <a href="./../../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A650&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" target="CourtTab" type="application/pdf" hreflang="en" class="CourtLink">EU:C:2015:650</a>
+          , paragraph 
+          <a href="./../../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2015%3A650&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point57" target="CourtTab" type="application/xhtml+xml" hreflang="en" class="CourtLink">57</a>
+          ).
+        </p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point73">73</p>
+      </td>
+      <td valign="top">
+        <p class="normal">It follows that, in the present case, under the system established by Directive 95/46, the ULD was entitled to assess, independently of the assessments made by the Irish supervisory authority, the lawfulness of the data processing at issue in the main proceedings.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point74">74</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Consequently, the answer to Questions 5 and 6 is that Article 4(1)(a) and Article 28(3) and (6) of Directive 95/46 must be interpreted as meaning that, where the supervisory authority of a Member State intends to exercise with respect to an entity established in the territory of that Member State the powers of intervention referred to in Article 28(3) of that directive, on the ground of infringements of the rules on the protection of personal data committed by a third party responsible for the processing of that data whose seat is in another Member State, that supervisory authority is competent to assess, independently of the supervisory authority of the other Member State, the lawfulness of such data processing and may exercise its powers of intervention with respect to the entity established in its territory without first calling on the supervisory authority of the other Member State to intervene.</p>
+      </td>
+    </tr>
+  </table>
+  <p class="sum-title-1">
+    <span class="bold">Costs</span>
+  </p>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point75">75</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top"> </td>
+      <td valign="top">
+        <p class="normal">On those grounds, the Court (Grand Chamber) hereby rules:</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top"> </td>
+      <td valign="top">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count bold">
+                <span class="bold">1.</span>
+              </p>
+            </td>
+            <td valign="top">
+              <p class="normal">
+                <span class="bold">Article 2(d) of Directive</span>
+                95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data must be interpreted as meaning that the concept of ‘controller’ within the meaning of that provision encompasses the administrator of a fan page hosted on a social network.
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top"> </td>
+      <td valign="top">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count bold">
+                <span class="bold">2.</span>
+              </p>
+            </td>
+            <td valign="top">
+              <p class="normal">
+                <span class="bold">Articles 4 and 28 of Directive 95/46 must be interpreted as meaning that, where an undertaking established outside the European Union has several establishments in different Member States, the supervisory authority of a Member State is entitled to exercise the powers conferred on it by Article 28(3) of that directive with respect to an establishment of that undertaking situated in the territory of that Member State even if, as a result of the division of tasks within the group, first, that establishment is responsible solely for the sale of advertising space and other marketing activities in the territory of that Member State and, second, exclusive responsibility for collecting and processing personal data belongs, for the entire territory of the European Union, to an establishment situated in another Member State.</span>
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top"> </td>
+      <td valign="top">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count bold">
+                <span class="bold">3.</span>
+              </p>
+            </td>
+            <td valign="top">
+              <p class="normal">
+                <span class="bold">Article 4(1)(a) and Article 28(3) and (6) of Directive 95/46 must be interpreted as meaning that, where the supervisory authority of a Member State intends to exercise with respect to an entity established in the territory of that Member State the powers of intervention referred to in Article 28(3) of that directive, on the ground of infringements of the rules on the protection of personal data committed by a third party responsible for the processing of that data whose seat is in another Member State, that supervisory authority is competent to assess, independently of the supervisory authority of the other Member State, the lawfulness of such data processing and may exercise its powers of intervention with respect to the entity established in its territory without first calling on the supervisory authority of the other Member State to intervene.</span>
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tbody>
+      <tr>
+        <td> </td>
+        <td>
+          <div class="signaturecase">
+            <p class="normal">[Signatures]</p>
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <hr class="note" />
+  <p class="note">
+    (
+    <span class="note">
+      <a id="t-ECR_62016CJ0210_EN_01-E0001" href="#c-ECR_62016CJ0210_EN_01-E0001">*1</a>
+    </span>
+    )	Language of the case: German.
+  </p>
+</body>
+

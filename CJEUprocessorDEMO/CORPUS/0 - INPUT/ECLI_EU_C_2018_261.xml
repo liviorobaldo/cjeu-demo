@@ -1,0 +1,1491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+  <p class="sum-title-1">
+    <a id="judgment" />
+    JUDGMENT OF THE COURT (Fourth Chamber)
+  </p>
+  <p class="sum-title-1">
+    19 April 2018 (
+    <span class="note">
+      <a id="c-ECR_62016CJ0580_EN_01-E0001" href="#t-ECR_62016CJ0580_EN_01-E0001">*1</a>
+    </span>
+    )
+  </p>
+  <p class="index">(Reference for a preliminary ruling — Taxation — Value added tax (VAT) — Directive 2006/112/EC — Place of intra-Community acquisition — Article 42 — Intra-Community acquisition of goods that are the object of a subsequent supply — Article 141 — Exemption — Triangular transaction — Simplification measures — Article 265 — Correction of recapitulative statement)</p>
+  <p class="normal">In Case C‑580/16,</p>
+  <p class="normal">REQUEST for a preliminary ruling under Article 267 TFEU from the Verwaltungsgerichtshof (Administrative Court, Austria), made by decision of 19 October 2016, received at the Court on 17 November 2016, in the proceedings</p>
+  <p class="normal">
+    <span class="bold">Firma Hans Bühler KG</span>
+  </p>
+  <p class="pnormal">v</p>
+  <p class="normal">
+    <span class="bold">Finanzamt Graz-Stadt,</span>
+  </p>
+  <p class="normal">THE COURT (Fourth Chamber),</p>
+  <p class="normal">composed of T. von Danwitz, President of the Chamber, C. Vajda, E. Juhász, K. Jürimäe (Rapporteur) and C. Lycourgos, Judges,</p>
+  <p class="normal">Advocate General: Y. Bot,</p>
+  <p class="normal">Registrar: R. Schiano, Administrator,</p>
+  <p class="normal">having regard to the written procedure and further to the hearing on 11 October 2017,</p>
+  <p class="normal">after considering the observations submitted on behalf of:</p>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count">–</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Firma Hans Bühler KG, by P. Schulte, Rechtsanwalt,</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count">–</p>
+      </td>
+      <td valign="top">
+        <p class="normal">the Austrian Government, by G. Eberhard, F. Koppensteiner and S. Pfeiffer, acting as Agents,</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count">–</p>
+      </td>
+      <td valign="top">
+        <p class="normal">the European Commission, by L. Lozano Palacios and B.‑R. Killmann, acting as Agents,</p>
+      </td>
+    </tr>
+  </table>
+  <p class="normal">after hearing the Opinion of the Advocate General at the sitting on 30 November 2017,</p>
+  <p class="normal">gives the following</p>
+  <p class="sum-title-1">
+    <span class="bold">Judgment</span>
+  </p>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point1">1</p>
+      </td>
+      <td valign="top">
+        <p class="normal">
+          This request for a preliminary ruling concerns the interpretation of Article 141(c) and Articles 42 and 265 of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax (
+          <a href="./../../../../legal-content/EN/AUTO/?uri=OJ:L:2006:347:TOC" hreflang="en" target="CourtTab">OJ 2006 L 347, p. 1</a>
+          ) as amended by Council Directive 2010/45/EU of 13 July 2010 (JO 2010 L 189, p. 1) (‘the VAT Directive’), read in conjunction with the first paragraph of Article 41 and Articles 197 and 263 of the VAT Directive.
+        </p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point2">2</p>
+      </td>
+      <td valign="top">
+        <p class="normal">The request was made in the course of a dispute between Firma Hans Bühler KG and the Finanzamt Graz-Stadt (City of Graz Tax Office, Austria) concerning the payment of value added tax (VAT) on transactions carried out between October 2012 and March 2013.</p>
+      </td>
+    </tr>
+  </table>
+  <p class="sum-title-1">
+    <span class="bold">Legal context</span>
+  </p>
+  <p class="title-grseq-2">
+    <span class="bold">
+      <span class="italic">EU law</span>
+    </span>
+  </p>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point3">3</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Recitals 10 and 38 of the VAT Directive state:</p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">‘(10)</p>
+            </td>
+            <td valign="top">
+              <p class="normal">During [the] transitional period, intra-Community transactions carried out by taxable persons other than exempt taxable persons should be taxed in the Member State of destination, in accordance with the rates and conditions set by that Member State.</p>
+            </td>
+          </tr>
+        </table>
+        <p class="normal">…</p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">(38)</p>
+            </td>
+            <td valign="top">
+              <p class="normal">In respect of taxable operations in the domestic market linked to intra-Community trade in goods carried out during the transitional period by taxable persons not established within the territory of the Member State in which the intra-Community acquisition of goods takes place, including chain transactions, it is necessary to provide for simplification measures ensuring equal treatment in all the Member States. To that end, the provisions concerning the taxation system and the person liable for payment of the VAT due in respect of such operations should be harmonised. It is however, necessary to exclude in principle from such arrangements goods that are intended to be supplied at the retail stage.’</p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point4">4</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Article 2(1)(b)(i) of the VAT Directive provides:</p>
+        <p class="normal">‘1.   The following transactions shall be subject to VAT:</p>
+        <p class="normal">…</p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">(b)</p>
+            </td>
+            <td valign="top">
+              <p class="normal">the intra-Community acquisition of goods for consideration within the territory of a Member State by:</p>
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <col width="5%" />
+                <col width="95%" />
+                <tr>
+                  <td valign="top">
+                    <p class="count">(i)</p>
+                  </td>
+                  <td valign="top">
+                    <p class="normal">a taxable person acting as such, or a non-taxable legal person, where the vendor is a taxable person acting as such who is not eligible for the exemption for small enterprises provided for in Articles 282 to 292 and who is not covered by Articles 33 or 36.’</p>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point5">5</p>
+      </td>
+      <td valign="top">
+        <p class="normal">The first paragraph of Article 20 of the VAT Directive states:</p>
+        <p class="normal">‘“Intra-Community acquisition of goods” shall mean the acquisition of the right to dispose as owner of movable tangible property dispatched or transported to the person acquiring the goods, by or on behalf of the vendor or the person acquiring the goods, in a Member State other than that in which dispatch or transport of the goods began.’</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point6">6</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Article 40 of the VAT Directive provides:</p>
+        <p class="normal">‘The place of the intra-Community acquisition of goods shall be deemed to be the place where dispatch or transport to the person acquiring them ends.’</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point7">7</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Article 41 of the VAT Directive provides:</p>
+        <p class="normal">‘Without prejudice to Article 40, the place of an intra-Community acquisition of goods as referred to in Article 2(1)(b)(i) shall be deemed to be within the territory of the Member State which issued the VAT identification number under which the person acquiring the goods made the acquisition, unless the person acquiring the goods establishes that VAT has been applied to that acquisition in accordance with Article 40.</p>
+        <p class="normal">If VAT is applied to the acquisition in accordance with the first paragraph and subsequently applied, pursuant to Article 40, to the acquisition in the Member State in which dispatch or transport of the goods ends, the taxable amount shall be reduced accordingly in the Member State which issued the VAT identification number under which the person acquiring the goods made the acquisition.’</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point8">8</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Article 42 of the VAT Directive provides:</p>
+        <p class="normal">‘The first paragraph of Article 41 shall not apply and VAT shall be deemed to have been applied to the intra-Community acquisition of goods in accordance with Article 40 where the following conditions are met:</p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">(a)</p>
+            </td>
+            <td valign="top">
+              <p class="normal">the person acquiring the goods establishes that he has made the intra-Community acquisition for the purposes of a subsequent supply, within the territory of the Member State identified in accordance with Article 40, for which the person to whom the supply is made has been designated in accordance with Article 197 as liable for payment of VAT;</p>
+            </td>
+          </tr>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">(b)</p>
+            </td>
+            <td valign="top">
+              <p class="normal">the person acquiring the goods has satisfied the obligations laid down in Article 265 relating to submission of the recapitulative statement.’</p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point9">9</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Article 141 of the VAT directive is worded as follows:</p>
+        <p class="normal">‘Each Member State shall take specific measures to ensure that VAT is not charged on the intra-Community acquisition of goods within its territory, made in accordance with Article 40, where the following conditions are met:</p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">(a)</p>
+            </td>
+            <td valign="top">
+              <p class="normal">the acquisition of goods is made by a taxable person who is not established in the Member State concerned but is identified for VAT purposes in another Member State;</p>
+            </td>
+          </tr>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">(b)</p>
+            </td>
+            <td valign="top">
+              <p class="normal">the acquisition of goods is made for the purposes of the subsequent supply of those goods, in the Member State concerned, by the taxable person referred to in point (a);</p>
+            </td>
+          </tr>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">(c)</p>
+            </td>
+            <td valign="top">
+              <p class="normal">the goods thus acquired by the taxable person referred to in point (a) are directly dispatched or transported, from a Member State other than that in which he is identified for VAT purposes, to the person for whom he is to carry out the subsequent supply;</p>
+            </td>
+          </tr>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">(d)</p>
+            </td>
+            <td valign="top">
+              <p class="normal">the person to whom the subsequent supply is to be made is another taxable person, or a non-taxable legal person, who is identified for VAT purposes in the Member State concerned;</p>
+            </td>
+          </tr>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">(e)</p>
+            </td>
+            <td valign="top">
+              <p class="normal">the person referred to in point (d) has been designated in accordance with Article 197 as liable for payment of the VAT due on the supply carried out by the taxable person who is not established in the Member State in which the tax is due.’</p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point10">10</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Article 197 of the VAT Directive states as follows:</p>
+        <p class="normal">‘1.   VAT shall be payable by the person to whom the goods are supplied when the following conditions are met:</p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">(a)</p>
+            </td>
+            <td valign="top">
+              <p class="normal">the taxable transaction is a supply of goods carried out in accordance with the conditions laid down in Article 141;</p>
+            </td>
+          </tr>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">(b)</p>
+            </td>
+            <td valign="top">
+              <p class="normal">the person to whom the goods are supplied is another taxable person, or a non-taxable legal person, identified for VAT purposes in the Member State in which the supply is carried out;</p>
+            </td>
+          </tr>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">(c)</p>
+            </td>
+            <td valign="top">
+              <p class="normal">the invoice issued by the taxable person not established in the Member State of the person to whom the goods are supplied is drawn up in accordance with Sections 3 to 5 of Chapter 3.</p>
+            </td>
+          </tr>
+        </table>
+        <p class="normal">2.   Where a tax representative is appointed as the person liable for payment of VAT pursuant to Article 204, Member States may provide for a derogation from paragraph 1 of this Article.’</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point11">11</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Article 262 of the VAT Directive provides:</p>
+        <p class="normal">‘Every taxable person identified for VAT purposes shall submit a recapitulative statement of the following:</p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">(a)</p>
+            </td>
+            <td valign="top">
+              <p class="normal">the acquirers identified for VAT purposes to whom he has supplied goods in accordance with the conditions specified in Article 138(1) and (2)(c);</p>
+            </td>
+          </tr>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">(b)</p>
+            </td>
+            <td valign="top">
+              <p class="normal">the persons identified for VAT purposes to whom he has supplied goods which were supplied to him by way of intra-Community acquisitions referred to in Article 42;</p>
+            </td>
+          </tr>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">(c)</p>
+            </td>
+            <td valign="top">
+              <p class="normal">the taxable persons, and the non-taxable legal persons identified for VAT purposes, to whom he has supplied services, other than services that are exempted from VAT in the Member State where the transaction is taxable, and for which the recipient is liable to pay the tax pursuant to Article 196.’</p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point12">12</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Under Article 263 of the VAT Directive:</p>
+        <p class="normal">‘1.   The recapitulative statement shall be drawn up for each calendar month within a period not exceeding one month and in accordance with procedures to be determined by the Member States.</p>
+        <p class="normal">…’</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point13">13</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Article 265 of that directive provides:</p>
+        <p class="normal">‘1.   In the case of intra-Community acquisitions of goods, as referred to in Article 42, the taxable person identified for VAT purposes in the Member State which issued him with the VAT identification number under which he made such acquisitions shall set the following information out clearly on the recapitulative statement:</p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">(a)</p>
+            </td>
+            <td valign="top">
+              <p class="normal">his VAT identification number in that Member State and under which he made the acquisition and subsequent supply of goods;</p>
+            </td>
+          </tr>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">(b)</p>
+            </td>
+            <td valign="top">
+              <p class="normal">the VAT identification number, in the Member State in which dispatch or transport of the goods ended, of the person to whom the subsequent supply was made by the taxable person;</p>
+            </td>
+          </tr>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">(c)</p>
+            </td>
+            <td valign="top">
+              <p class="normal">for each person to whom the subsequent supply was made, the total value, exclusive of VAT, of the supplies made by the taxable person in the Member State in which dispatch or transport of the goods ended.</p>
+            </td>
+          </tr>
+        </table>
+        <p class="normal">2.   The value referred to in paragraph 1(c) shall be declared for the period of submission established in accordance with Article 263(1) to (1b) during which VAT became chargeable.’</p>
+      </td>
+    </tr>
+  </table>
+  <p class="title-grseq-2">
+    <span class="bold">
+      <span class="italic">Austrian law</span>
+    </span>
+  </p>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point14">14</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Article 3(8) of the Anhang (Binnenmarkt) (Annex [Internal Market]) to the Umsatzsteuergesetz (Austrian Law on Turnover Tax), of 23 August 1994 (BGBl., 663/1994) (‘the 1994 UStG’), provides:</p>
+        <p class="normal">‘The intra-Community acquisition is made in the territory of the Member State in which the goods are located … when their dispatch or transport ends. If the acquirer uses, in its dealings with the supplier, a VAT identification number issued to it by another Member State, the acquisition shall be deemed to have been made in the territory of that Member State, unless and until the acquirer proves that the acquisition has been taxed by the Member State designated in the first sentence. In the event of proof, Paragraph 16 shall apply by analogy.’</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point15">15</p>
+      </td>
+      <td valign="top">
+        <p class="normal">In the version applicable in respect of 2012 (BGBl. I, 34/2010), Article 25 of the 1994 UStG, entitled ‘Triangular transactions’, provides:</p>
+        <p class="ti-art">‘Definition</p>
+        <p class="normal">(1)   A triangular transaction occurs where three contractors effect taxable transactions concerning the same goods in three different Member States, those goods are sent directly by the first supplier to the final customer and the conditions set out in paragraph 3 are met. That shall also apply where the final customer is a legal person who is not a contractor or is not acquiring the goods for its business.</p>
+        <p class="normal">Place of the intra-Community acquisition in the case of a triangular transaction</p>
+        <p class="normal">(2)   The intra-Community acquisition within the meaning of the second sentence of Article 3(8) shall be deemed to be taxed when the contractor (acquirer) proves that a triangular transaction has occurred and that it has complied with its obligations concerning the duty to declare under paragraph 6. If the contractor does not comply with its duty to declare, the tax exemption shall be forfeited retroactively.</p>
+        <p class="normal">Tax exemption on the intra-Community acquisition of goods</p>
+        <p class="normal">(3)   The intra-Community acquisition shall be exempt from VAT where the following conditions are met:</p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">(a)</p>
+            </td>
+            <td valign="top">
+              <p class="normal">the contractor (acquirer) has no residence or establishment in the national territory but is identified for VAT purposes within the territory of the [European Union];</p>
+            </td>
+          </tr>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">(b)</p>
+            </td>
+            <td valign="top">
+              <p class="normal">the acquisition is made with a view to a subsequent supply by the contractor (acquirer) in the national territory to a contractor or a legal person identified for VAT purposes in the national territory;</p>
+            </td>
+          </tr>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">(c)</p>
+            </td>
+            <td valign="top">
+              <p class="normal">the goods acquired originate in a Member State other than that in which the contractor (acquirer) is identified for VAT purposes;</p>
+            </td>
+          </tr>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">(d)</p>
+            </td>
+            <td valign="top">
+              <p class="normal">the right to dispose of the goods acquired is directly transferred by the first contractor or first customer to the final customer (recipient);</p>
+            </td>
+          </tr>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">(e)</p>
+            </td>
+            <td valign="top">
+              <p class="normal">in accordance with paragraph 5, the recipient is liable to pay the tax.</p>
+            </td>
+          </tr>
+        </table>
+        <p class="normal">Issuing of invoice by the acquirer</p>
+        <p class="normal">(4)   In the event of application of the exemption under paragraph 3, the invoice must additionally contain the following information:</p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">–</p>
+            </td>
+            <td valign="top">
+              <p class="normal">an express reference to the existence of an intra-Community triangular transaction and the fact that the final customer is liable for the tax,</p>
+            </td>
+          </tr>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">–</p>
+            </td>
+            <td valign="top">
+              <p class="normal">the VAT identification number under which the contractor (acquirer) made the intra-Community acquisition and subsequent supply of the goods, and</p>
+            </td>
+          </tr>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">–</p>
+            </td>
+            <td valign="top">
+              <p class="normal">the VAT identification number of the recipient of the supply.</p>
+            </td>
+          </tr>
+        </table>
+        <p class="normal">Person liable for payment of tax</p>
+        <p class="normal">(5)   In the case of a triangular transaction, the recipient of the taxable supply shall be liable to pay the tax where the invoice issued by the acquirer corresponds to paragraph 4.</p>
+        <p class="normal">Duties of the acquirer</p>
+        <p class="normal">(6)   In order to comply with the obligations concerning the duty to declare under paragraph 2, the contractor shall be required to provide the following details in the recapitulative statement:</p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">–</p>
+            </td>
+            <td valign="top">
+              <p class="normal">the VAT identification number in the national territory under which it made the intra-Community acquisition and the subsequent supply of goods;</p>
+            </td>
+          </tr>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">–</p>
+            </td>
+            <td valign="top">
+              <p class="normal">the VAT identification number of the recipient of the subsequent supply delivered by the contractor, issued to it in the Member State of destination of the goods dispatched or transported;</p>
+            </td>
+          </tr>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">–</p>
+            </td>
+            <td valign="top">
+              <p class="normal">for each one of those recipients, the total consideration paid in respect of the deliveries thus made by the contractor in the Member State of destination of the goods dispatched or transported. These amounts are to be provided in respect of the calendar quarter in which the tax debt arose.</p>
+            </td>
+          </tr>
+        </table>
+        <p class="normal">Duties of the recipient</p>
+        <p class="normal">(7)   In calculating the tax under Paragraph 20, the amount payable under paragraph 5 is to be added to the amount ascertained.’</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point16">16</p>
+      </td>
+      <td valign="top">
+        <p class="normal">With effect from 1 January 2013, paragraph 4 of this provision was amended so that it now reads as follows (in the version in BGBl. I, 112/2012):</p>
+        <p class="normal">‘Issuing of invoice by the acquirer</p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">(4)</p>
+            </td>
+            <td valign="top">
+              <p class="normal">The issuing of the invoice shall be governed by the provisions of the Member State in which the acquirer operates its business. If the supply is made from the acquirer’s permanent establishment, the law of the Member State in which the establishment is situated shall be applicable. If the recipient of the supply to whom liability for the tax passes settles by means of a credit note, the issuance of the invoice shall be governed by the provisions of the Member State in which the supply is delivered.</p>
+              <p class="normal">Where the provisions of this federal law are applicable to the issuance of the invoice, the invoice must additionally contain the following details:</p>
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <col width="5%" />
+                <col width="95%" />
+                <tr>
+                  <td valign="top">
+                    <p class="count">–</p>
+                  </td>
+                  <td valign="top">
+                    <p class="normal">an express reference to the existence of an intra-Community triangular transaction and the fact that the final customer is liable for the tax,</p>
+                  </td>
+                </tr>
+              </table>
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <col width="5%" />
+                <col width="95%" />
+                <tr>
+                  <td valign="top">
+                    <p class="count">–</p>
+                  </td>
+                  <td valign="top">
+                    <p class="normal">the VAT identification number under which the contractor (acquirer) made the intra-Community acquisition and subsequent supply of the goods, and</p>
+                  </td>
+                </tr>
+              </table>
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <col width="5%" />
+                <col width="95%" />
+                <tr>
+                  <td valign="top">
+                    <p class="count">–</p>
+                  </td>
+                  <td valign="top">
+                    <p class="normal">the VAT identification number of the recipient of the supply.’</p>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point17">17</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Under Article 21(3) of the 1994 UStG, recapitulative statements are to be submitted before the end of the calendar month following the statement period.</p>
+      </td>
+    </tr>
+  </table>
+  <p class="sum-title-1">
+    <span class="bold">The dispute in the main proceedings and the questions referred for a preliminary ruling</span>
+  </p>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point18">18</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Firma Hans Bühler, a limited partnership, established and identified for VAT purposes in Germany, operates a production and trading business in that Member State. From October 2012 to March 2013 it was also identified for VAT purposes in Austria, where it planned to set up a permanent establishment.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point19">19</p>
+      </td>
+      <td valign="top">
+        <p class="normal">During that period, Firma Hans Bühler used the Austrian VAT identification number exclusively for transactions that took place as follows: it bought products from suppliers established in Germany and sold them to a customer established and identified for VAT purposes in the Czech Republic. The products were dispatched directly from the German suppliers to the Czech final customer.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point20">20</p>
+      </td>
+      <td valign="top">
+        <p class="normal">The German suppliers gave their German VAT identification number and the Austrian VAT identification number of Firma Hans Bühler on their invoices to that undertaking. Firma Hans Bühler in turn sent invoices to the final customer on which it indicated its Austrian VAT identification number and the Czech VAT identification number of its customer. Those invoices also stated that the transactions were ‘intra-Community triangular transactions’ and that the final customer was therefore liable to pay the VAT.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point21">21</p>
+      </td>
+      <td valign="top">
+        <p class="normal">On 8 February 2013, Firma Hans Bühler submitted to the Austrian tax authorities recapitulative statements for the period from October 2012 to January 2013 in which it gave its Austrian VAT identification number, as well as the Czech VAT identification number of the final customer. No mention was made under ‘triangular transactions’. Only in a letter of 10 April 2013 did Firma Hans Bühler correct those recapitulative statements by stating that the reported transactions formed part of triangular transactions. On the same date, it also submitted recapitulative statements for the months of February and March 2013.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point22">22</p>
+      </td>
+      <td valign="top">
+        <p class="normal">The City of Graz Tax Office concluded that the transactions reported by Firma Hans Bühler were ‘abortive triangular transactions’ because that taxable person had not fulfilled its special obligations concerning the duty to declare and had not proved that the transaction had been subject to VAT upon final acquisition of the goods in the Czech Republic. The City of Graz Tax Office also maintained that, even though the intra-Community acquisitions had occurred in the Czech Republic, they were also deemed to have been effected in Austria, since Firma Hans Bühler had used an Austrian VAT identification number. The City of Graz Tax Office therefore decided to charge VAT on the intra-Community acquisitions made by Firma Hans Bühler.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point23">23</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Firma Hans Bühler challenged that decision before the Bundesfinanzgericht (Federal Finance Court, Austria), which dismissed its appeal. According to that court, in order to determine whether Firma Hans Bühler could benefit from the VAT exemption on its intra-Community acquisitions, it had to fulfil its special obligations concerning duty to declare. However, the reference to triangular transactions did not appear on the initial recapitulative statements for the period from October 2012 to January 2013. That, therefore, deprived it of the benefit of the exemption, pursuant to Article 25(2) of the 1994 UStG. The Bundesfinanzgericht (Federal Finance Court) also held that the Austrian VAT identification number issued to Firma Hans Bühler was no longer valid on 10 April 2013 and that the undertaking therefore had also failed to fulfil the obligations concerning duty to declare in respect of the transactions carried out in February and March 2013.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point24">24</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Firma Hans Bühler brought an appeal on a point of law against the decision of the Bundesfinanzgericht (Federal Finance Court) before the Verwaltungsgerichtshof (Administrative Court, Austria). The referring court expresses doubts as to the assessment of the City of Graz Tax Office and the Bundesfinanzgericht (Federal Finance Court) with regard to the taxation of the transactions in question.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point25">25</p>
+      </td>
+      <td valign="top">
+        <p class="normal">In those circumstances the Verwaltungsgerichtshof (Administrative Court) decided to stay the proceedings and to refer the following questions to the Court of Justice for a preliminary ruling:</p>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">‘(1)</p>
+            </td>
+            <td valign="top">
+              <p class="normal">Is Article 141(c) of [the VAT Directive], on which the non-application of the first paragraph of Article 41 of [the VAT Directive] depends, in accordance with Article 42 (read in conjunction with Article 197) of [the VAT Directive], to be interpreted as meaning that the requirement laid down in that provision is not met where the taxable person is resident and identified for VAT purposes in the Member State from which the goods are dispatched or transported, even if that taxable person uses the VAT identification number of another Member State for that specific intra-Community acquisition?</p>
+            </td>
+          </tr>
+        </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count">(2)</p>
+            </td>
+            <td valign="top">
+              <p class="normal">Are Articles 42 and 265 [of the VAT Directive], read in conjunction with Article 263 [of the VAT Directive], to be interpreted as meaning that the first paragraph of Article 41 of [the VAT Directive] is rendered inapplicable only if the recapitulative statement is submitted in good time?’</p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  <p class="sum-title-1">
+    <span class="bold">Consideration of the questions referred</span>
+  </p>
+  <p class="title-grseq-2">
+    <span class="bold">
+      <span class="italic">The first question</span>
+    </span>
+  </p>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point26">26</p>
+      </td>
+      <td valign="top">
+        <p class="normal">By its first question, the referring court asks essentially whether Article 141(c) of the VAT Directive must be interpreted as meaning that the requirement laid down in that provision is not met where the taxable person is resident and identified for VAT purposes in the Member State from which the goods are dispatched or transported, even if that taxable person uses the VAT identification number of another Member State for that specific intra-Community acquisition.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point27">27</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Article 141 of the VAT Directive provides for a derogation from the rule laid down in Article 2(1)(b) of the VAT Directive, according to which the intra-Community acquisition of goods for consideration within the territory of a Member State is subject to VAT.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point28">28</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Article 141 lays down the cumulative conditions under which each Member State shall take special measures to ensure that intra-Community acquisitions of goods made in its territory are not subject to VAT pursuant to Article 40 of the VAT Directive, that is, where that Member State is the country of destination of the intra-Community dispatch or transport.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point29">29</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Among those conditions, Article 141(a) of the VAT Directive requires that the acquisition of goods must be made by a taxable person who is not established in the Member State of destination of the intra-Community dispatch or transport, but who is identified for VAT purposes in another Member State.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point30">30</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Article 141(b) of the VAT Directive adds that the acquisition of the goods must be made for the purposes of the subsequent supply of those goods, in the Member State concerned, by the taxable person referred to in Article 141(a) of the VAT Directive.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point31">31</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Article 141(c) of the VAT Directive, the only provision of that article mentioned in the referring court’s questions, requires that the goods which are the subject of the intra-Community acquisition in question must be directly dispatched or transported from a Member State other than that in which he is identified for VAT purposes to the person for whom he is to carry out the subsequent supply.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point32">32</p>
+      </td>
+      <td valign="top">
+        <p class="normal">The latter provision lays down the condition relating to the Member State of departure of the intra-Community transport so that the intra-Community acquisition may benefit from the simplification measure provided for in Article 141 of the VAT Directive.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point33">33</p>
+      </td>
+      <td valign="top">
+        <p class="normal">
+          According to settled case-law, when interpreting a provision of EU law, it is necessary to consider not only its wording but also the context in which it occurs and the objectives pursued by the rules of which it is part (see, to that effect, judgments of 19 September 2000, Germany v Commission,
+          <a href="./../../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2000%3A467&amp;locale=en" target="CourtTab" type="application/xml;notice=branch" hreflang="en" class="CourtLink">C‑156/98</a>
+          ,
+          <a href="./../../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2000%3A467&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" target="CourtTab" type="application/pdf" hreflang="en" class="CourtLink">EU:C:2000:467</a>
+          , paragraph 
+          <a href="./../../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2000%3A467&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point50" target="CourtTab" type="application/xhtml+xml" hreflang="en" class="CourtLink">50</a>
+          , and of 26 July 2017, Jafari,
+          <a href="./../../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A586&amp;locale=en" target="CourtTab" type="application/xml;notice=branch" hreflang="en" class="CourtLink">C‑646/16</a>
+          ,
+          <a href="./../../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A586&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" target="CourtTab" type="application/pdf" hreflang="en" class="CourtLink">EU:C:2017:586</a>
+          , paragraph 
+          <a href="./../../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A586&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point73" target="CourtTab" type="application/xhtml+xml" hreflang="en" class="CourtLink">73</a>
+          ).
+        </p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point34">34</p>
+      </td>
+      <td valign="top">
+        <p class="normal">In that regard, the wording of Article 141(c) of the VAT Directive could, on its own, suggest that to the extent that the goods at issue in the main proceedings were dispatched to the Czech Republic from Germany and that Firma Hans Bühler was in possession of a German VAT identification number, the benefit of the exemption from VAT should not be granted to the latter.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point35">35</p>
+      </td>
+      <td valign="top">
+        <p class="normal">However, as the European Commission states in its written observations, it is apparent from the context of Article 141(c) of the VAT Directive and from the objectives of that directive that the condition laid down in that provision refers to a Member State other than the Member State in which the customer is identified for VAT purposes for the specific acquisition that he is making.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point36">36</p>
+      </td>
+      <td valign="top">
+        <p class="normal">In that regard, Article 141(c) of the VAT Directive, in the context of the other provisions of the VAT Directive, must be understood, first, in the light of the fact that if the Member State of departure of the transport was also that within which the customer is identified for VAT purposes for the acquisition of the goods being transported, this would mean that the transaction took place in that Member State and that it could not be regarded as an ‘intra-Community transaction’ within the meaning of the first paragraph of Article 20 of the VAT Directive. In this case, Article 141 of the VAT Directive, on intra-Community acquisitions, would not apply.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point37">37</p>
+      </td>
+      <td valign="top">
+        <p class="normal">On the other hand, as the Advocate General pointed out in point 70 of his Opinion, Article 141(c) of the VAT Directive must be read in the light of Articles 42 and 265 of that directive, which detail and supplement the conditions of application of the simplification measure provided for in Article 141 of the VAT Directive. In that regard, it should be noted that Article 265 of the VAT Directive refers to the Member State which issued to the acquirer the VAT identification number under which the acquirer made its acquisitions.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point38">38</p>
+      </td>
+      <td valign="top">
+        <p class="normal">This implies that, where an acquirer is identified for VAT purposes in several Member States, only the VAT identification number under which he made the intra-Community acquisition must be taken into account in assessing whether the condition laid down in Article 141(c) of the VAT Directive is met.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point39">39</p>
+      </td>
+      <td valign="top">
+        <p class="normal">
+          That interpretation is in line with the objectives of the VAT Directive and, more specifically, with the simplification measure provided for in Articles 42, 141, 197 and 265 of the VAT Directive. First, the purpose of the transitional arrangements relating to VAT applicable to intra-Community trade, established by Council Directive 91/680/EEC of 16 December 1991 supplementing the common system of value added tax and amending Directive 77/388/EEC (
+          <a href="./../../../../legal-content/EN/AUTO/?uri=OJ:L:1991:376:TOC" hreflang="en" target="CourtTab">OJ 1991 L 376, p. 1</a>
+          ), is the transfer of the tax revenue to the Member State in which final consumption of the goods supplied takes place (see, to that effect, judgment of 14 June 2017, Santogal M-Comércio e Reparação de Automóveis,
+          <a href="./../../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A453&amp;locale=en" target="CourtTab" type="application/xml;notice=branch" hreflang="en" class="CourtLink">C‑26/16</a>
+          ,
+          <a href="./../../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A453&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" target="CourtTab" type="application/pdf" hreflang="en" class="CourtLink">EU:C:2017:453</a>
+          , paragraph 
+          <a href="./../../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A453&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point37" target="CourtTab" type="application/xhtml+xml" hreflang="en" class="CourtLink">37</a>
+          and the case-law cited).
+        </p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point40">40</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Furthermore, it follows from recital 38 of the VAT Directive that, in respect of taxable operations in the domestic market linked to intra-Community trade in goods carried out during the transitional period by taxable persons not established within the territory of the Member State in which the intra-Community acquisition of goods takes place, including chain transactions, it is necessary to provide for simplification measures ensuring equal treatment in all the Member States.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point41">41</p>
+      </td>
+      <td valign="top">
+        <p class="normal">In that regard, as the Advocate General observes in point 57 of his Opinion, the purpose of Article 141 of the VAT Directive is to avoid a situation whereby the intermediary contractor, in a series of transactions as defined in Article 141, has to satisfy identification and declaration obligations in the Member State of destination of the goods.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point42">42</p>
+      </td>
+      <td valign="top">
+        <p class="normal">In that perspective, the benefit of the simplification scheme introduced in Articles 42, 141, 197 and 265 of the VAT Directive cannot be refused to a taxable person making an acquisition under the conditions laid down in Article 141 of the VAT Directive on the sole ground that that taxable person is also identified for VAT purposes in the Member State in which the intra-Community dispatch or transport began. As the Advocate General observed in point 72 of his Opinion, such a refusal would give rise to a significant difference in the manner in which taxable persons are treated and might, without justification, restrict the pursuit of economic activities on the basis of the VAT identification numbers of the taxable person.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point43">43</p>
+      </td>
+      <td valign="top">
+        <p class="normal">In the light of all the foregoing considerations, the answer to the first question is that Article 141(c) of the VAT Directive must be interpreted as meaning that the requirement laid down in that provision is met where the taxable person is resident and identified for VAT purposes in the Member State from which the goods are dispatched or transported, but that that taxable person uses the VAT identification number of another Member State for that specific intra-Community acquisition.</p>
+      </td>
+    </tr>
+  </table>
+  <p class="title-grseq-2">
+    <span class="bold">
+      <span class="italic">The second question</span>
+    </span>
+  </p>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point44">44</p>
+      </td>
+      <td valign="top">
+        <p class="normal">By its second question, the referring court asks, in essence, whether Articles 42 and 265 of the VAT Directive, read in conjunction with Article 263 of the VAT Directive, must be interpreted as precluding the tax authorities of a Member State from applying the first paragraph of Article 41 of the VAT Directive solely on the ground that, in the context of an intra-Community acquisition, made for the purposes of a subsequent supply in the territory of a Member State, the recapitulative statement, referred to in Article 265 of the VAT Directive, was not submitted in good time by the taxable person identified for VAT purposes in that Member State.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point45">45</p>
+      </td>
+      <td valign="top">
+        <p class="normal">It should be recalled that, by way of derogation from the first paragraph of Article 41 of the VAT Directive, which concerns the Member State which has issued the VAT identification number under which the acquirer made the intra-Community acquisition in question, Article 42 of the VAT Directive provides that the intra-Community acquisition shall be deemed to be subject to VAT in the Member State of destination of the intra-Community transport if the two cumulative conditions provided for in Article 42(a) and (b) respectively are met.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point46">46</p>
+      </td>
+      <td valign="top">
+        <p class="normal">In accordance with Article 42(a) of the VAT Directive, the person acquiring the goods must establish that he has made his acquisition for the purposes of a subsequent supply, within the territory of the Member State identified in accordance with Article 40 of the VAT Directive, for which the person to whom the supply is made has been designated in accordance with Article 197 of the VAT Directive as liable for payment of the VAT.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point47">47</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Article 42(b) of the VAT Directive adds a second condition according to which the acquirer must fulfil the obligations relating to the submission of the recapitulative statement provided for in Article 265 of the VAT Directive. The latter provision details the specific information relating to the chain of operations, as defined in Article 141 of the VAT Directive, which the intermediary contractor must provide in the recapitulative statement to be submitted to the tax administration of the Member State which issued it with the VAT identification number under which it made the intra-Community acquisition.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point48">48</p>
+      </td>
+      <td valign="top">
+        <p class="normal">As regards Article 263 of the VAT Directive, this sets out the rules relating to the deadlines for submitting a recapitulative statement.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point49">49</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Contrary to what the Austrian Government argues before the Court, it should be noted that, while Article 42(a) of the VAT Directive specifies the basic condition required for an acquisition such as that at issue in the main proceedings to be deemed to be subject to VAT in accordance with Article 40 of that directive, Article 42(b) of the VAT Directive specifies the manner in which proof of taxation in the Member State of destination of the intra-Community transport or dispatch must be adduced by referring to the specific obligations with which the acquirer must comply when submitting the recapitulative statement. Such obligations concerning recapitulative statements must be regarded as being formal.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point50">50</p>
+      </td>
+      <td valign="top">
+        <p class="normal">
+          Under the principle of fiscal neutrality, the failure of a taxable person to comply with the formal requirements of Article 42(b) of the VAT Directive cannot call into question the application of the Article 42 of that directive if the substantive conditions set out in Article 42(a) are otherwise satisfied (see, by analogy, judgments of 27 September 2012, VSTR,
+          <a href="./../../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2012%3A592&amp;locale=en" target="CourtTab" type="application/xml;notice=branch" hreflang="en" class="CourtLink">C‑587/10</a>
+          ,
+          <a href="./../../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A592&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" target="CourtTab" type="application/pdf" hreflang="en" class="CourtLink">EU:C:2012:592</a>
+          , paragraph 
+          <a href="./../../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2012%3A592&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point46" target="CourtTab" type="application/xhtml+xml" hreflang="en" class="CourtLink">46</a>
+          , and of 9 February 2017, Euro Tyre,
+          <a href="./../../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A106&amp;locale=en" target="CourtTab" type="application/xml;notice=branch" hreflang="en" class="CourtLink">C‑21/16</a>
+          ,
+          <a href="./../../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A106&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" target="CourtTab" type="application/pdf" hreflang="en" class="CourtLink">EU:C:2017:106</a>
+          , paragraph 
+          <a href="./../../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A106&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point36" target="CourtTab" type="application/xhtml+xml" hreflang="en" class="CourtLink">36</a>
+          ). The refusal to apply Article 42 of the VAT Directive on such a ground could lead to double taxation in so far as the intermediary acquirer would also be taxed pursuant to the first paragraph of Article 41 of the VAT Directive, in the Member State which issued the VAT identification number which it used for that operation, while the final acquirer would also be taxed pursuant to Article 141(e) and Article 197 of the VAT Directive. In that regard, it should be added that, according to the case-law of the Court, Articles 41 and 42 of the VAT Directive are intended to ensure that the intra-Community acquisition in question is subject to VAT payable by the final customer, while avoiding double taxation of that transaction (see, to that effect, judgment of 22 April 2010, X and fiscale eenheid Facet-Facet Trading,
+          <a href="./../../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2010%3A217&amp;locale=en" target="CourtTab" type="application/xml;notice=branch" hreflang="en" class="CourtLink">C‑536/08 and C‑539/08</a>
+          ,
+          <a href="./../../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A217&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" target="CourtTab" type="application/pdf" hreflang="en" class="CourtLink">EU:C:2010:217</a>
+          , paragraph 
+          <a href="./../../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2010%3A217&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point35" target="CourtTab" type="application/xhtml+xml" hreflang="en" class="CourtLink">35</a>
+          ).
+        </p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point51">51</p>
+      </td>
+      <td valign="top">
+        <p class="normal">It follows that Article 42 of the VAT Directive applies where the substantive conditions are met. In that respect, it is relevant that the VAT identification number of the acquirer is valid at the time of the transactions. In contrast, it is irrelevant that this number is no longer valid on the date of submitting the recapitulative statements.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point52">52</p>
+      </td>
+      <td valign="top">
+        <p class="normal">
+          In any event, a Member State cannot, without going beyond what is strictly necessary to ensure proper collection of the tax, provide for the possibility of rectifying recapitulative statements relating to triangular transactions while depriving that rectification of effect by refusing to the intermediary contractor the retroactive application of Article 42 of the VAT Directive, where that contractor provides proof that the substantive conditions have been met. However, in order to penalise the failure to comply with formal requirements, the Member States may consider penalties other than the refusal to apply Article 42 of the VAT Directive, such as the imposition of a fine or financial penalty proportionate to the seriousness of the offence (see, by analogy, judgment of 15 September 2016, Senatex,
+          <a href="./../../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A691&amp;locale=en" target="CourtTab" type="application/xml;notice=branch" hreflang="en" class="CourtLink">C‑518/14</a>
+          ,
+          <a href="./../../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A691&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" target="CourtTab" type="application/pdf" hreflang="en" class="CourtLink">EU:C:2016:691</a>
+          , paragraph 
+          <a href="./../../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A691&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point42" target="CourtTab" type="application/xhtml+xml" hreflang="en" class="CourtLink">42</a>
+          ).
+        </p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point53">53</p>
+      </td>
+      <td valign="top">
+        <p class="normal">However, it is apparent from the order for reference that the initial recapitulative statements for the period from October to December 2012 were complete but that they were submitted late, on 8 February 2013. The City of Graz Tax Office also considered that Firma Hans Bühler had not fulfilled its obligations for the months of February and March 2013, since the VAT identification number of that company was no longer valid on the date of submission of the recapitulative statements concerning the transactions carried out during that period.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point54">54</p>
+      </td>
+      <td valign="top">
+        <p class="normal">As regards that latter period, it should be pointed out that the mere fact that the VAT identification number of Firma Hans Bühler was no longer valid at the date of submission of the recapitulative statements at issue in the main proceedings cannot be regarded as being in breach of Article 265 of the VAT Directive. That provision does not require that the VAT identification number available to the taxable person should still be valid on the date of submission of the recapitulative statement. According to the wording of that provision, the recapitulative statement must mention the VAT number under which the taxable person ‘made’ the intra-Community acquisitions in question and not the one it has on the date of submitting that recapitulative statement.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point55">55</p>
+      </td>
+      <td valign="top">
+        <p class="normal">As regards recapitulative statements submitted late, the principle of fiscal neutrality requires that Article 42 of the VAT Directive may be applied if the substantive conditions set out in Article 42(a) of the VAT Directive are met, even if the formal condition referred to in Article 42(b) of the VAT Directive has not been met in good time. Accordingly, the tax authorities of a Member State cannot, in principle, tax an intra-Community acquisition solely on the ground that the acquirer has not submitted in good time a duly completed recapitulative statement relating to the transaction.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point56">56</p>
+      </td>
+      <td valign="top">
+        <p class="normal">
+          However, as the Advocate General observes in point 91 of his Opinion, there are two situations in which failure to comply with a formal requirement may justify excluding the application of Article 42 of the VAT Directive (see, by analogy, judgment of 20 October 2016, Plöckl,
+          <a href="./../../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2016%3A791&amp;locale=en" target="CourtTab" type="application/xml;notice=branch" hreflang="en" class="CourtLink">C‑24/15</a>
+          ,
+          <a href="./../../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A791&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" target="CourtTab" type="application/pdf" hreflang="en" class="CourtLink">EU:C:2016:791</a>
+          , paragraphs 
+          <a href="./../../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A791&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point43" target="CourtTab" type="application/xhtml+xml" hreflang="en" class="CourtLink">43</a>
+          ,
+          <a href="./../../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A791&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point44" target="CourtTab" type="application/xhtml+xml" hreflang="en" class="CourtLink">44</a>
+          and 
+          <a href="./../../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2016%3A791&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point46" target="CourtTab" type="application/xhtml+xml" hreflang="en" class="CourtLink">46</a>
+          ).
+        </p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point57">57</p>
+      </td>
+      <td valign="top">
+        <p class="normal">
+          First, non-compliance with a formal requirement may lead to refusal to apply Article 42 of the VAT Directive where a taxable person has intentionally participated in tax evasion which has jeopardised the operation of the common system of VAT (see, by analogy, judgment of 9 February 2017, Euro Tyre,
+          <a href="./../../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A106&amp;locale=en" target="CourtTab" type="application/xml;notice=branch" hreflang="en" class="CourtLink">C‑21/16</a>
+          ,
+          <a href="./../../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A106&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" target="CourtTab" type="application/pdf" hreflang="en" class="CourtLink">EU:C:2017:106</a>
+          , paragraph 
+          <a href="./../../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A106&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point39" target="CourtTab" type="application/xhtml+xml" hreflang="en" class="CourtLink">39</a>
+          and the case-law cited).
+        </p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point58">58</p>
+      </td>
+      <td valign="top">
+        <p class="normal">In the main proceedings, there is nothing in the case file to suggest that Firma Hans Bühler was involved in a fraud.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point59">59</p>
+      </td>
+      <td valign="top">
+        <p class="normal">
+          In the second place, non-compliance with a formal requirement may justify refusal to apply Article 42 of the VAT Directive if that non-compliance would effectively prevent the production of conclusive evidence that the substantive requirements have been satisfied (see, by analogy, judgment of 9 February 2017, Euro Tyre,
+          <a href="./../../../../legal-content/EN/AUTO/?uri=ecli:ECLI%3AEU%3AC%3A2017%3A106&amp;locale=en" target="CourtTab" type="application/xml;notice=branch" hreflang="en" class="CourtLink">C‑24/16</a>
+          ,
+          <a href="./../../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A106&amp;lang=EN&amp;format=pdf&amp;target=CourtTab" target="CourtTab" type="application/pdf" hreflang="en" class="CourtLink">EU:C:2017:106</a>
+          , paragraph 
+          <a href="./../../../../legal-content/redirect/?urn=ecli:ECLI%3AEU%3AC%3A2017%3A106&amp;lang=EN&amp;format=html&amp;target=CourtTab&amp;anchor=#point42" target="CourtTab" type="application/xhtml+xml" hreflang="en" class="CourtLink">42</a>
+          and the case-law cited).
+        </p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point60">60</p>
+      </td>
+      <td valign="top">
+        <p class="normal">It is for the referring court to verify whether the fact that the initial recapitulative statements, for the period from October to December 2012, were submitted late had the effect of preventing clear proof from being adduced that the substantive requirements have been satisfied.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point61">61</p>
+      </td>
+      <td valign="top">
+        <p class="normal">In the light of the foregoing considerations, the answer to the second question is that Articles 42 and 265 of the VAT Directive, read in conjunction with Article 263 of the VAT Directive, must be interpreted as precluding the tax authorities of a Member State from applying the first paragraph of Article 41 of the VAT Directive solely on the ground that, in the context of an intra-Community acquisition, made for the purposes of a subsequent supply in the territory of a Member State, the submission of the recapitulative statement, referred to in Article 265 of the VAT Directive, was not made in good time by the taxable person identified for VAT purposes in that Member State.</p>
+      </td>
+    </tr>
+  </table>
+  <p class="sum-title-1">
+    <span class="bold">Costs</span>
+  </p>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top">
+        <p class="count" id="point62">62</p>
+      </td>
+      <td valign="top">
+        <p class="normal">Since these proceedings are, for the parties to the main proceedings, a step in the action pending before the national court, the decision on costs is a matter for that court. Costs incurred in submitting observations to the Court, other than the costs of those parties, are not recoverable.</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top"> </td>
+      <td valign="top">
+        <p class="normal">On those grounds, the Court (Fourth Chamber) hereby rules:</p>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top"> </td>
+      <td valign="top">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count bold">
+                <span class="bold">1.</span>
+              </p>
+            </td>
+            <td valign="top">
+              <p class="normal">
+                <span class="bold">Article 141(c) of Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax, as amended by Council Directive 2010/45/EU of 13 July 2010, must be interpreted as meaning that the requirement laid down in that provision is met where the taxable person is resident and identified for value added tax (VAT) purposes in the Member State from which the goods are dispatched or transported, but that that taxable person uses the VAT identification number of another Member State for that specific intra-Community acquisition.</span>
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tr>
+      <td valign="top"> </td>
+      <td valign="top">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <col width="5%" />
+          <col width="95%" />
+          <tr>
+            <td valign="top">
+              <p class="count bold">
+                <span class="bold">2.</span>
+              </p>
+            </td>
+            <td valign="top">
+              <p class="normal">
+                <span class="bold">Articles 42 and 265 of Directive 2006/112, as amended by Directive 2010/45, read in conjunction with Article 263 of Directive 2006/112, as amended by Directive 2010/45, must be interpreted as precluding the tax authorities of a Member State from applying the first paragraph of Article 41 of Directive 2006/112 solely on the ground that, in the context of an intra-Community acquisition, made for the purposes of a subsequent supply in the territory of a Member State, the recapitulative statement, referred to in Article 265 of Directive 2006/112, as amended by Directive 2010/45, was not submitted in good time by the taxable person identified for value added tax (VAT) purposes in that Member State.</span>
+              </p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <col width="5%" />
+    <col width="95%" />
+    <tbody>
+      <tr>
+        <td> </td>
+        <td>
+          <div class="signaturecase">
+            <p class="normal">[Signatures]</p>
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <hr class="note" />
+  <p class="note">
+    (
+    <span class="note">
+      <a id="t-ECR_62016CJ0580_EN_01-E0001" href="#c-ECR_62016CJ0580_EN_01-E0001">*1</a>
+    </span>
+    )	Language of the case: German.
+  </p>
+</body>
+
