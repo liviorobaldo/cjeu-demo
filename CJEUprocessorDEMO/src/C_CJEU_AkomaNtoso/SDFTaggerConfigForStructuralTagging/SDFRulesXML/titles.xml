@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SDFRules>
+  <SDFRule priority="10000" id="23">
+    <tag>tblock</tag>
+    <headAlternatives>
+      <head>
+        <Font>title</Font>
+      </head>
+    </headAlternatives>
+    <nextStarAlternatives>
+      <next maxDistance="1">
+        <tag>tblock</tag>
+        <headAlternatives>
+          <head>
+            <Font>title</Font>
+            <endOfSentence>true</endOfSentence>
+          </head>
+        </headAlternatives>
+        <!-- if the sentence is over, even if later there is another title, this will be tagged separately -->
+        <nextStarAlternatives>
+          <next maxDistance="1">
+            <headAlternatives>
+              <head>
+                <Font>title</Font>
+              </head>
+            </headAlternatives>
+          </next>
+        </nextStarAlternatives>
+      </next>
+      <next maxDistance="1">
+        <tag>tblock</tag>
+        <headAlternatives>
+          <head>
+            <Font>title</Font>
+          </head>
+        </headAlternatives>
+      </next>
+    </nextStarAlternatives>
+    <prevAlternatives>
+      <notPrev maxDistance="1">
+        <headAlternatives>
+          <head />
+        </headAlternatives>
+      </notPrev>
+      <prev maxDistance="1">
+        <headAlternatives>
+          <head>
+            <Font>normal</Font>
+          </head>
+        </headAlternatives>
+      </prev>
+      <prev maxDistance="1">
+        <headAlternatives>
+          <head>
+            <endOfSentence>true</endOfSentence>
+          </head>
+        </headAlternatives>
+      </prev>
+    </prevAlternatives>
+  </SDFRule>
+</SDFRules>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bags>
+  <Bag type="Lemma" name="Structural Items in Legal Text">
+    <instance>annex</instance>
+    <instance>article</instance>
+    <instance>chapter</instance>
+    <instance>com</instance>
+    <instance>footnote</instance>
+    <instance>mon</instance>
+    <instance>paragraph</instance>
+    <instance>point</instance>
+    <instance>question</instance>
+    <instance>recital</instance>
+    <instance>regulation</instance>
+    <instance>schedule</instance>
+    <instance>section</instance>
+    <instance>subsection</instance>
+    <instance>subparagraph</instance>
+    <instance>art.</instance>
+    <instance>p.</instance>
+    <instance>par.</instance>
+    <instance>pnt</instance>
+    <instance>pnt.</instance>
+    <instance>sec.</instance>
+    <instance>wib</instance>
+  </Bag>
+</Bags>
+

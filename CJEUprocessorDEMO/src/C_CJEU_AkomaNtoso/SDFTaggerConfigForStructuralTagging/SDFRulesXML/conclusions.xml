@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SDFRules>
+  <!-- conclusions start when there are the signatures -->
+  <SDFRule priority="10000" id="45">
+    <tag>beginning-of-conclusions</tag>
+    <headAlternatives>
+      <head>
+        <Font>signature</Font>
+      </head>
+    </headAlternatives>
+    <nextStarAlternatives>
+      <next maxDistance="1">
+        <tag>beginning-of-conclusions</tag>
+        <headAlternatives>
+          <head>
+            <Font>signature</Font>
+          </head>
+        </headAlternatives>
+      </next>
+    </nextStarAlternatives>
+    <!-- ALT! It is necessary to add this <prevAlternatives>! -->
+    <!-- The reason is that we want the SDFRule to execute only on the first node in the signatures at the end of the conclusions. Otherwise, an SDFRule will trigger 
+         for each node in the signature. And, when we will make the intersection of the ArrayList<SDFHead>(s), it could happen that one ArrayList<SDFHead>, triggered 
+         by an SDFHead in the middle of the signature delete all the others with which it intersects, so that it is chosen as the "winner". To avoid this, we only want 
+         the one starting on the first word of the signature to be the "winner" -->
+    <prevAlternatives>
+      <notPrev maxDistance="1">
+        <headAlternatives>
+          <head />
+        </headAlternatives>
+      </notPrev>
+      <prev maxDistance="1">
+        <headAlternatives>
+          <head>
+            <Font>normal</Font>
+          </head>
+          <head>
+            <Font>bold</Font>
+          </head>
+          <head>
+            <Font>title</Font>
+          </head>
+        </headAlternatives>
+      </prev>
+    </prevAlternatives>
+  </SDFRule>
+  <POS>CD</POS>
+  <!-- with low priority, where there are the footnotes (we recognize them because they have "(1)", with "(" and "1" on a single Dependency Tree,
+       followed by the word "language" -->
+  <SDFRule priority="100" id="46">
+    <tag>beginning-of-conclusions</tag>
+    <headAlternatives>
+      <head>
+        <Form>(</Form>
+        <endOfSentence>true</endOfSentence>
+      </head>
+    </headAlternatives>
+    <nextAlternatives>
+      <next maxDistance="1">
+        <tag>beginning-of-conclusions</tag>
+        <headAlternatives>
+          <head>
+            <Form>1</Form>
+            <endOfSentence>true</endOfSentence>
+          </head>
+        </headAlternatives>
+        <nextAlternatives>
+          <next maxDistance="1">
+            <tag>beginning-of-conclusions</tag>
+            <headAlternatives>
+              <head>
+                <Form>)</Form>
+              </head>
+            </headAlternatives>
+            <nextAlternatives>
+              <next maxDistance="5">
+                <tag>beginning-of-conclusions</tag>
+                <headAlternatives>
+                  <head>
+                    <Lemma>language</Lemma>
+                  </head>
+                </headAlternatives>
+              </next>
+            </nextAlternatives>
+          </next>
+        </nextAlternatives>
+      </next>
+    </nextAlternatives>
+  </SDFRule>
+</SDFRules>
