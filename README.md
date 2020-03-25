@@ -1,6 +1,6 @@
 # The CJEUprocessorDEMO
 <p align="justify">
-A demo processing case law of the EU Court of Justice (CJEU) via <a href="http://www.liviorobaldo.com/sdftagger.html">SDFTagger</a> is available for download, under the GNU Lesser General Public License. The demo includes both the source code and the corpus (635 html files publicly available on the CJEU website, which have been downloaded).
+A demo processing case law of the EU Court of Justice (CJEU) via <a href="http://www.liviorobaldo.com/sdftagger.html">SDFTagger</a> is available for download, under the GNU Lesser General Public License. The demo includes both the source code and the corpus (625 html files publicly available on the CJEU website, which have been downloaded).
 </p>
 
 <p align="justify">
