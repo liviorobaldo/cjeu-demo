@@ -13,5 +13,5 @@ I developed the demo with Netbeans IDE 8.2, thus I've uploaded the whole Netbean
 </p>
 
 <p align="justify">
-A description of the SDFTagger library, together with a User Manual, is available on <a href="http://www.liviorobaldo.com/sdftagger.html">My Website</a>.
+A description of the SDFTagger library is available on <a href="http://www.liviorobaldo.com/sdftagger.html">My Website</a>.
 </p>
